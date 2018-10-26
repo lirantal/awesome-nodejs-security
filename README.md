@@ -20,6 +20,7 @@ A curated list of awesome Node.js Security related resources.
   - [Vulnerabilities and Security Advisories](#vulnerabilities-and-security-advisories)
   - [Security Hardening](#security-hardening)
 - [Educational](#educational)
+  - [Hacking Playground](#hacking-playground)
   - [Articles](#articles)
   - [Research Papers](#research-papers)
   - [Books](#books)
@@ -55,7 +56,14 @@ A curated list of awesome Node.js Security related resources.
 - [express-limiter](https://www.npmjs.com/package/express-limiter) - Rate limiting middleware for Express applications built on redis.
 - [limits](https://www.npmjs.com/package/limits) - Simple express/connect middleware to set limit to upload size, set request timeout etc.
 
-# Books
+
+# Educational
+
+## Hacking Playground
+ - [NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
+ - [OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.](https://github.com/bkimminich/juice-shop) - 
+
+## Books
 - [Secure Your Node.js Web Application: Keep Attackers Out and Users Happy](https://www.amazon.com/Secure-Your-Node-js-Web-Application-ebook/dp/B01BPPUP30) by Karl Duuna, 2016
 - [Essential Node.js Security](https://leanpub.com/nodejssecurity) by Liran Tal, 2017 - Hands-on and abundant with source code for a practical guide to Securing Node.js web applications.
 - [Securing Node JS Apps
