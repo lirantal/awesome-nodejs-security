@@ -51,6 +51,9 @@ A curated list of awesome Node.js Security related resources.
 - [npq](https://github.com/lirantal/npq) - Safely install packages with npm or yarn by auditing them as part of your install process.
 - [snyk](https://www.npmjs.com/package/snyk) - Snyk helps you find, fix and monitor known vulnerabilities in Node.js npm, Ruby and Java dependencies, both on an ad hoc basis and as part of your CI (Build) system.
 - [node-release-lines](https://www.npmjs.com/package/node-release-lines) - Introspection API for Node.js release metadata. Provides information about release lines, their relative status along with details of each release.
+- [auditjs](https://github.com/OSSIndex/auditjs) - Audits an NPM package.json file to identify known vulnerabilities using the [OSSIndex](https://ossindex.sonatype.org/rest).
+- [npm-audit](https://docs.npmjs.com/cli/audit) - Runs a security audit based on your package.json using npm.
+- [gammaray](https://github.com/nearform/gammaray) - Runs a security audit based on your package.json using the [Node.js Security Working Group vulnerability data](https://github.com/nodejs/security-wg/).
 
 ## Security Hardening
 - [express-limiter](https://www.npmjs.com/package/express-limiter) - Rate limiting middleware for Express applications built on redis.
