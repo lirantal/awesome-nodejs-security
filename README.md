@@ -19,6 +19,7 @@ A curated list of awesome Node.js Security related resources.
   - [CSRF](#csrf)
   - [Vulnerabilities and Security Advisories](#vulnerabilities-and-security-advisories)
   - [Security Hardening](#security-hardening)
+- [Security Incidents](#security-incidents)
 - [Educational](#educational)
   - [Hacking Playground](#hacking-playground)
   - [Articles](#articles)
@@ -66,6 +67,16 @@ A curated list of awesome Node.js Security related resources.
 - [limits](https://www.npmjs.com/package/limits) - Simple express/connect middleware to set limit to upload size, set request timeout etc.
 - [rate-limiter-flexible](https://www.npmjs.com/package/rate-limiter-flexible) - Fast, flexible and friendly rate limiter by key and protection from DDoS and brute force attacks in process Memory, Cluster, Redis, MongoDb, MySQL, PostgreSQL at any scale. Express and Koa examples included.
 
+
+# Security Incidents
+
+Collection of security incidents that happened in the Node.js, JavaScript and npm related communities with supporting articles:
+
+* **event-stream** - malicious code found in npm package event-stream. References: [[github issue]](https://github.com/dominictarr/event-stream/issues/116) [[snyk]](https://snyk.io/blog/malicious-code-found-in-npm-package-event-stream), [[snyk's postmortem]](https://snyk.io/blog/a-post-mortem-of-the-malicious-event-stream-backdoor),  [[schneid]](https://schneid.io/blog/event-stream-vulnerability-explained/), [[intrinsic]](https://medium.com/intrinsic/compromised-npm-package-event-stream-d47d08605502), [[npm]](https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident), [[jayden]](https://jaydenseric.com/blog/event-stream-compromise)
+* **eslint** - malicious packages found in npm package eslint-scope and eslint-config-eslint. References [[github issue]](https://github.com/eslint/eslint-scope/issues/39), [[eslint tweet]](https://twitter.com/geteslint/status/1017419074136092673?lang=en), [[eslint's postmortem]](https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes), [[nodesource's postmortem]](https://nodesource.com/blog/a-high-level-post-mortem-of-the-eslint-scope-security-incident/), [[npm's statement]](https://status.npmjs.org/incidents/dn7c1fgrr7ng)
+
+
+
 # Educational
 
 ## Hacking Playground
@@ -83,6 +94,7 @@ A curated list of awesome Node.js Security related resources.
 - [Web Developer Security Toolbox
 ](https://leanpub.com/b/webdevelopersecuritytoolbox) - Bundled Node.js and Web Security Books.
 
+
 # Companies
 - [Snyk](https://snyk.io) - A developer-first solution that automates finding & fixing vulnerabilities in your dependencies.
 - [Sqreen](https://sqreen.io) - Automated security for your web apps - real time application security protection.
@@ -90,12 +102,14 @@ A curated list of awesome Node.js Security related resources.
 - [NodeSource](https://nodesource.com) - Mission-critical Node.js applications. Provides N|Solid and Node Certified Modules.
 - [GuardRails](https://www.guardrails.io) - A GitHub App that gives you instant security feedback in your Pull Requests.
 
+
 # Contributing
 Found an awesome project, package, article, other type of resources related to Node.js Security? Send me a pull request!
 Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ---
 say *hi* on [Twitter](https://twitter.com/liran_tal)
+
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
