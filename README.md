@@ -10,7 +10,7 @@ A curated list of awesome Node.js Security related resources.
 </div>
 <br/>
 
-# Table of Contents
+# Contents
 
 - [Tools](#projects)
   - [Web Framework Hardening](#web-framework-hardening)
