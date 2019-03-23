@@ -42,11 +42,11 @@ A curated list of awesome Node.js Security related resources.
 - [ban-sensitive-files](https://github.com/bahmutov/ban-sensitive-files) - Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).
 - [NodeJSScan](https://ajinabraham.github.io/NodeJsScan/) - A static security code scanner for Node.js applications. Including neat UI that can point where the issue is and how to fix it.
 
-## Input/Output Validation
+## Input Validation & Output Encoding
 - [node-esapi](https://www.npmjs.com/package/node-esapi) - node-esapi is a minimal port of the ESAPI4JS (Enterprise Security API for JavaScript) encoder.
 - [escape-html](https://www.npmjs.com/package/escape-html) - Escape string for use in HTML.
 - [js-string-escape](https://www.npmjs.com/package/js-string-escape) - Escape any string to be a valid JavaScript string literal between double quotes or single quotes.
-- [https://github.com/chriso/validator.js](https://github.com/chriso/validator.js) - A library of string validators and sanitizers.
+- [validator](https://github.com/chriso/validator.js) - An npm library of string validators and sanitizers.
 - [xss-filters](https://www.npmjs.com/package/xss-filters) - Just sufficient output filtering to prevent XSS!
 
 ## CSRF
