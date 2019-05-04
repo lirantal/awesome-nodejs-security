@@ -15,7 +15,7 @@ A curated list of awesome Node.js Security related resources.
 - [Tools](#projects)
   - [Web Framework Hardening](#web-framework-hardening)
   - [Static Code Analysis](#static-code-analysis)
-  - [Input/Output Validation](#input-output-validation)
+  - [Input/Output Validation](#input-validation--output-encoding)
   - [CSRF](#csrf)
   - [Vulnerabilities and Security Advisories](#vulnerabilities-and-security-advisories)
   - [Security Hardening](#security-hardening)
