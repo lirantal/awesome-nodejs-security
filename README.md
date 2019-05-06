@@ -85,6 +85,11 @@ Collection of security incidents that happened in the Node.js, JavaScript and np
 [[bleepingcomputer.com]](https://www.bleepingcomputer.com/news/security/somebody-tried-to-hide-a-backdoor-in-a-popular-javascript-npm-package/)
 [[Snyk’s getcookies vulnerability page]](https://snyk.io/vuln/npm:getcookies:20180502)
 [[Hacker News]](https://news.ycombinator.com/item?id=16975025)
+* **crossenv** - malicious typosquatting package crossenv steals environment variables. References: [[CJ blog on typosquat packages]](https://medium.com/@ceejbot/crossenv-malware-on-the-npm-registry-45c7dc29f6f5)
+[[Typosquatting research paper]](https://incolumitas.com/2016/06/08/typosquatting-package-managers/)
+[[bleepingcomputer.com]](https://www.bleepingcomputer.com/news/security/javascript-packages-caught-stealing-environment-variables/)
+[[Snyk’s crossenv vulnerability page]](https://snyk.io/vuln/npm:crossenv:20170802)
+[[Hacker News]](https://news.ycombinator.com/item?id=14901566)
 
 
 # Educational
