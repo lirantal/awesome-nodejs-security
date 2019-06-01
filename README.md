@@ -100,6 +100,7 @@ Collection of security incidents that happened in the Node.js, JavaScript and np
 
 ## Articles
  - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/)
+ - [10 npm security best practices](https://snyk.io/blog/ten-npm-security-best-practices/)
 
 ## Books
 - [Secure Your Node.js Web Application: Keep Attackers Out and Users Happy](https://www.amazon.com/Secure-Your-Node-js-Web-Application-ebook/dp/B01BPPUP30) by Karl Duuna, 2016
