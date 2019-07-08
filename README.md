@@ -78,17 +78,18 @@ A curated list of awesome Node.js Security related resources.
 
 Collection of security incidents that happened in the Node.js, JavaScript and npm related communities with supporting articles:
 
+* **EasyDEX-GUI** - malicious code found in npm package event-stream. References: [[npm]](https://blog.npmjs.org/post/185397814280/plot-to-steal-cryptocurrency-foiled-by-the-npm), [[snyk]](https://snyk.io/blog/yet-another-malicious-package-found-in-npm-targeting-cryptocurrency-wallets), [[komodo announcement]](https://komodoplatform.com/update-agama-vulnerability/)
 * **event-stream** - malicious code found in npm package event-stream. References: [[github issue]](https://github.com/dominictarr/event-stream/issues/116) [[snyk]](https://snyk.io/blog/malicious-code-found-in-npm-package-event-stream), [[snyk's postmortem]](https://snyk.io/blog/a-post-mortem-of-the-malicious-event-stream-backdoor),  [[schneid]](https://schneid.io/blog/event-stream-vulnerability-explained/), [[intrinsic]](https://medium.com/intrinsic/compromised-npm-package-event-stream-d47d08605502), [[npm]](https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident), [[jayden]](https://jaydenseric.com/blog/event-stream-compromise), [[hillel wayne's postmortem]](https://www.hillelwayne.com/post/stamping-on-eventstream/)
 * **eslint** - malicious packages found in npm package eslint-scope and eslint-config-eslint. References [[github issue]](https://github.com/eslint/eslint-scope/issues/39), [[eslint tweet]](https://twitter.com/geteslint/status/1017419074136092673?lang=en), [[eslint's postmortem]](https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes), [[nodesource's postmortem]](https://nodesource.com/blog/a-high-level-post-mortem-of-the-eslint-scope-security-incident/), [[npm's statement]](https://status.npmjs.org/incidents/dn7c1fgrr7ng)
-* **getcookies** - malicious package getcookies gets embedded in higher-level express related packages. References: [[GitHub issue]](https://github.com/RocketChat/Rocket.Chat/issues/10641)
-[[npm]](https://blog.npmjs.org/post/173526807575/reported-malicious-module-getcookies)
-[[bleepingcomputer.com]](https://www.bleepingcomputer.com/news/security/somebody-tried-to-hide-a-backdoor-in-a-popular-javascript-npm-package/)
-[[Snyk’s getcookies vulnerability page]](https://snyk.io/vuln/npm:getcookies:20180502)
+* **getcookies** - malicious package getcookies gets embedded in higher-level express related packages. References: [[GitHub issue]](https://github.com/RocketChat/Rocket.Chat/issues/10641),
+[[npm]](https://blog.npmjs.org/post/173526807575/reported-malicious-module-getcookies),
+[[bleepingcomputer.com]](https://www.bleepingcomputer.com/news/security/somebody-tried-to-hide-a-backdoor-in-a-popular-javascript-npm-package/),
+[[Snyk’s getcookies vulnerability page]](https://snyk.io/vuln/npm:getcookies:20180502),
 [[Hacker News]](https://news.ycombinator.com/item?id=16975025)
-* **crossenv** - malicious typosquatting package crossenv steals environment variables. References: [[CJ blog on typosquat packages]](https://medium.com/@ceejbot/crossenv-malware-on-the-npm-registry-45c7dc29f6f5)
-[[Typosquatting research paper]](https://incolumitas.com/2016/06/08/typosquatting-package-managers/)
-[[bleepingcomputer.com]](https://www.bleepingcomputer.com/news/security/javascript-packages-caught-stealing-environment-variables/)
-[[Snyk’s crossenv vulnerability page]](https://snyk.io/vuln/npm:crossenv:20170802)
+* **crossenv** - malicious typosquatting package crossenv steals environment variables. References: [[CJ blog on typosquat packages]](https://medium.com/@ceejbot/crossenv-malware-on-the-npm-registry-45c7dc29f6f5), 
+[[Typosquatting research paper]](https://incolumitas.com/2016/06/08/typosquatting-package-managers/), 
+[[bleepingcomputer.com]](https://www.bleepingcomputer.com/news/security/javascript-packages-caught-stealing-environment-variables/), 
+[[Snyk’s crossenv vulnerability page]](https://snyk.io/vuln/npm:crossenv:20170802),
 [[Hacker News]](https://news.ycombinator.com/item?id=14901566)
 
 
