@@ -1,9 +1,13 @@
 <br/>
 <div align="center">
 
-A curated list of awesome Node.js Security related resources.
+A curated list of awesome Node.js Security resources.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![#](https://badgen.net/badge/tools/30+/blue)
+![#](https://badgen.net/badge/incidents/5+/red)
+![#](https://badgen.net/badge/educational/8+/green)
+
+[![liran_tal](https://badgen.net/twitter/follow/liran_tal)](https://twitter.com/liran_tal)
 
  *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
