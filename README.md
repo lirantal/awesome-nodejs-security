@@ -46,6 +46,7 @@ A curated list of awesome Node.js Security resources.
 - [DevSkim](https://github.com/Microsoft/DevSkim) - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.
 - [ban-sensitive-files](https://github.com/bahmutov/ban-sensitive-files) - Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).
 - [NodeJSScan](https://ajinabraham.github.io/NodeJsScan/) - A static security code scanner for Node.js applications. Including neat UI that can point where the issue is and how to fix it.
+- [Nsecure](https://github.com/ES-Community/nsecure) - Node.js CLI that allow you to deeply analyze the dependency tree of a given npm package or a directory.
 
 ## Input Validation & Output Encoding
 - [node-esapi](https://www.npmjs.com/package/node-esapi) - node-esapi is a minimal port of the ESAPI4JS (Enterprise Security API for JavaScript) encoder.
