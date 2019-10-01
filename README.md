@@ -48,6 +48,7 @@ A curated list of awesome Node.js Security resources.
 - [NodeJSScan](https://ajinabraham.github.io/NodeJsScan/) - A static security code scanner for Node.js applications. Including neat UI that can point where the issue is and how to fix it.
 - [Nsecure](https://github.com/ES-Community/nsecure) - Node.js CLI that allow you to deeply analyze the dependency tree of a given npm package or a directory.
 - [Trust But Verify](https://github.com/verifynpm/tbv) - TBV compares an npm package with its source repository to ensure the resulting artifact is the same.
+- [lockfile-lint](https://github.com/lirantal/lockfile-lint) - lint lockfiles for improved security and trust policies to keep clean from malicious package injection and other insecure configurations.
 
 ## Input Validation & Output Encoding
 - [node-esapi](https://www.npmjs.com/package/node-esapi) - node-esapi is a minimal port of the ESAPI4JS (Enterprise Security API for JavaScript) encoder.
