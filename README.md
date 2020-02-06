@@ -36,6 +36,7 @@ A curated list of awesome Node.js Security resources.
 
 ## Web Framework Hardening
 - [Helmet](https://www.npmjs.com/package/helmet) - Helmet helps you secure your Express apps by setting various HTTP headers.
+- [koa-helmet](https://www.npmjs.com/package/koa-helmet) - koa-helmet helps you secure your Koa apps by setting various HTTP headers.
 - [blankie](https://github.com/nlf/blankie) - CSP plugin for [hapi](https://github.com/hapijs/hapi).
 
 ## Static Code Analysis
