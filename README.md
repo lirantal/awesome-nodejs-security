@@ -76,6 +76,7 @@ A curated list of awesome Node.js Security resources.
 - [npm-audit-resolver](https://www.npmjs.com/package/npm-audit-resolver) - Manage npm-audit results, including options to ignore specific issues in clear and auditable way.
 - [gammaray](https://github.com/nearform/gammaray) - Runs a security audit based on your package.json using the [Node.js Security Working Group vulnerability data](https://github.com/nodejs/security-wg/).
 - [patch-package](https://www.npmjs.com/package/patch-package) - Allows app authors to create fixes for npm dependencies (in node_modules) without forking or waiting for merged PRs, by creating and applying patches.
+- [check-my-headers](https://github.com/UlisesGascon/check-my-headers) - Fast and simple way to check any HTTP Headers.
 - [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable/) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
 
 ## Security Hardening
