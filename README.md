@@ -36,10 +36,12 @@ A curated list of awesome Node.js Security resources.
 
 ## Web Framework Hardening
 - [Helmet](https://www.npmjs.com/package/helmet) - Helmet helps you secure your Express apps by setting various HTTP headers.
+- [koa-helmet](https://www.npmjs.com/package/koa-helmet) - koa-helmet helps you secure your Koa apps by setting various HTTP headers.
 - [blankie](https://github.com/nlf/blankie) - CSP plugin for [hapi](https://github.com/hapijs/hapi).
 
 ## Static Code Analysis
 - [eslint-plugin-security](https://www.npmjs.com/package/eslint-plugin-security) - ESLint rules for Node Security. This project will help identify potential security hotspots, but finds a lot of false positives which need triage by a human.
+- [tslint-plugin-security](https://www.npmjs.com/package/tslint-config-security) - TSLint rules for Node Security. This project will help identify potential security hotspots, but finds a lot of false positives which need triage by a human.
 - [safe-regex](https://www.npmjs.com/package/safe-regex) - detect potentially catastrophic exponential-time regular expressions by limiting the star height to 1.
 - [vuln-regex-detector](https://www.npmjs.com/package/vuln-regex-detector) - This module lets you check a regex for vulnerability. In JavaScript, regular expressions (regexes) can be "vulnerable": susceptible to catastrophic backtracking. If your application is used on the client side, this can be a performance issue. On the server side, this can expose you to Regular Expression Denial of Service (REDOS).
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories.
