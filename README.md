@@ -86,6 +86,8 @@ A curated list of awesome Node.js Security resources.
 - [limits](https://www.npmjs.com/package/limits) - Simple express/connect middleware to set limit to upload size, set request timeout etc.
 - [rate-limiter-flexible](https://www.npmjs.com/package/rate-limiter-flexible) - Fast, flexible and friendly rate limiter by key and protection from DDoS and brute force attacks in process Memory, Cluster, Redis, MongoDb, MySQL, PostgreSQL at any scale. Express and Koa examples included.
 - [tor-detect-middleware](https://github.com/UlisesGascon/tor-detect-middleware) Tor detect middleware for express
+- [express-enforces-ssl](https://github.com/hengkiardo/express-enforces-ssl) Enforces SSL for node.js express projects
+
 
 # Security Incidents
 
