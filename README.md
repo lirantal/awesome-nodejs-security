@@ -47,7 +47,7 @@ A curated list of awesome Node.js Security resources.
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories.
 - [DevSkim](https://github.com/Microsoft/DevSkim) - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.
 - [ban-sensitive-files](https://github.com/bahmutov/ban-sensitive-files) - Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).
-- [NodeJSScan](https://ajinabraham.github.io/NodeJsScan/) - A static security code scanner for Node.js applications. Including neat UI that can point where the issue is and how to fix it.
+- [NodeJSScan](https://github.com/ajinabraham/nodejsscan) - A static security code scanner for Node.js applications. Including neat UI that can point where the issue is and how to fix it.
 - [Nsecure](https://github.com/ES-Community/nsecure) - Node.js CLI that allow you to deeply analyze the dependency tree of a given npm package or a directory.
 - [Trust But Verify](https://github.com/verifynpm/tbv) - TBV compares an npm package with its source repository to ensure the resulting artifact is the same.
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) - lint lockfiles for improved security and trust policies to keep clean from malicious package injection and other insecure configurations.
