@@ -108,6 +108,7 @@ Collection of security incidents that happened in the Node.js, JavaScript and np
 [[Snyk’s crossenv vulnerability page]](https://snyk.io/vuln/npm:crossenv:20170802),
 [[Hacker News]](https://news.ycombinator.com/item?id=14901566)
 * **bb-builder** - malicious package targeting Windows systems to exfiltrate information and send to a remote service. References: [[Snyk]](https://snyk.io/vuln/SNYK-JS-BBBUILDER-460132), [[Reversing Labs]](https://blog.reversinglabs.com/blog/the-npm-package-that-walked-away-with-all-your-passwords), [[Bleeping Computer]](https://www.technadu.com/malicious-package-stealing-user-credentials-npm-repository/77482/)
+* **left-pad** - how one developer broke Node, Babel and thousands of projects in 11 lines of JavaScript. References: [[left-pad.io]](http://left-pad.io), [[The Register]](https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos).
 
 Another resource for malicious incidents is [BadJS](https://badjs.org/) - a repository of malicious JavaScript that has been found in websites, extensions, npm packages, and anywhere else JavaScript lives.
 
