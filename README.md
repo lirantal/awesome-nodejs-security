@@ -120,6 +120,9 @@ Another resource for malicious incidents is [BadJS](https://badjs.org/) - a repo
  - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) - The OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
  - [DomGoat](https://domgo.at/cxss/intro) - Client XSS happens when untrusted data from sources ends up in sinks. Information and excercises on different sources, different sinks and example of XSS occuring due to them in the menu on the left-hand side. 
 
+## Learning resources
+- [Node.js Security Roadmap](https://nodesecroadmap.fyi) - A Roadmap for Node.js Security discussing security challenges in the Node.js project.
+
 ## Articles
  - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/)
  - [10 npm security best practices](https://snyk.io/blog/ten-npm-security-best-practices/)
