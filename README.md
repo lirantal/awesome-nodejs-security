@@ -70,6 +70,9 @@ A curated list of awesome Node.js Security resources.
 - [csurf](https://www.npmjs.com/package/csurf) - Node.js CSRF protection middleware.
 - [crumb](https://github.com/hapijs/crumb) - CSRF crumb generation and validation for [hapi](https://github.com/hapijs/hapi).
 
+## SSRF
+- [ssrf-agent](https://www.npmjs.com/package/ssrf-agent) - Prevent SSRF in HTTP(s) request for Node.js.
+
 ## Vulnerabilities and Security Advisories
 - [npq](https://github.com/lirantal/npq) - Safely install packages with npm or yarn by auditing them as part of your install process.
 - [snyk](https://www.npmjs.com/package/snyk) - Snyk helps you find, fix and monitor known vulnerabilities in Node.js npm, Ruby and Java dependencies, both on an ad hoc basis and as part of your CI (Build) system.
