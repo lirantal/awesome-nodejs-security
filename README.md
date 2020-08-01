@@ -54,6 +54,7 @@ A curated list of awesome Node.js Security resources.
 - [pkgsign](https://github.com/RedpointGames/pkgsign) - A CLI tool for signing and verifying npm and yarn packages.
 - [sast-scan](https://github.com/AppThreat/sast-scan) - Fully open-source SAST scanner supporting a range of languages and frameworks.
 - [semgrep](https://semgrep.dev) - Open-source, offline, easy-to-customize static analysis for many languages. Some others on this list (NodeJSScan) use semgrep as their engine.
+- [npm-scan](https://github.com/spaceraccoon/npm-scan) - An extensible, heuristic-based vulnerability scanning tool for installed npm packages.
 
 ## Input Validation & Output Encoding
 - [node-esapi](https://www.npmjs.com/package/node-esapi) - node-esapi is a minimal port of the ESAPI4JS (Enterprise Security API for JavaScript) encoder.
