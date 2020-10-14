@@ -73,6 +73,7 @@ A curated list of awesome Node.js Security resources.
 ## CSRF
 - [csurf](https://www.npmjs.com/package/csurf) - Node.js CSRF protection middleware.
 - [crumb](https://github.com/hapijs/crumb) - CSRF crumb generation and validation for [hapi](https://github.com/hapijs/hapi).
+- [fastify-csrf](https://github.com/fastify/fastify-csrf) - A plugin for adding CSRF protection to [fastify](https://www.fastify.io).
 
 ## Vulnerabilities and Security Advisories
 - [npq](https://github.com/lirantal/npq) - Safely install packages with npm or yarn by auditing them as part of your install process.
