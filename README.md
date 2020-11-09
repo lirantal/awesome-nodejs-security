@@ -153,7 +153,6 @@ Another resource for malicious incidents is [BadJS](https://badjs.org/) - a repo
 - [Intrinsic](https://intrinsic.com) - Intrinsic secures your sensitive data from bugs and malicious code, allowing you to run all code safely.
 - [NodeSource](https://nodesource.com) - Mission-critical Node.js applications. Provides N|Solid and Node Certified Modules.
 - [GuardRails](https://www.guardrails.io) - A GitHub App that gives you instant security feedback in your Pull Requests.
-- [Shieldfy](https://shieldfy.io) - Automated security code review for your code and dependencies.
 
 # Contributing
 Found an awesome project, package, article, other type of resources related to Node.js Security? Send me a pull request!
