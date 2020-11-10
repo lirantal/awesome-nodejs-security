@@ -104,7 +104,8 @@ A curated list of awesome Node.js Security resources.
 
 Collection of security incidents that happened in the Node.js, JavaScript and npm related communities with supporting articles:
 
-* **twilio-npm** - ,alicious npm package opens backdoors on programmers' computers. References[[zdnet](https://www.zdnet.com/article/malicious-npm-package-opens-backdoors-on-programmers-computers)]
+* **discord malicious npm package** - Npm package caught stealing sensitive Discord and browser files [[zdnet](https://www.zdnet.com/article/npm-package-caught-stealing-sensitive-discord-and-browser-files/)].
+* **twilio-npm** - malicious npm package opens backdoors on programmers' computers. References[[zdnet](https://www.zdnet.com/article/malicious-npm-package-opens-backdoors-on-programmers-computers)]
 * **fallguys** - malicious package stealing sensitive files. References [[zdnet](https://www.zdnet.com/article/malicious-npm-package-caught-trying-to-steal-sensitive-discord-and-browser-files/)]
 * **is-promise** - one-liner library breaks an ecosystem. References: [[Forbes Lindesay - Maintainer post-mortem]](https://medium.com/javascript-in-plain-english/is-promise-post-mortem-cab807f18dcc), [[snyk's postmortem]](https://snyk.io/blog/why-did-is-promise-happen-and-what-can-we-learn-from-it/)
 * **EasyDEX-GUI** - malicious code found in npm package event-stream. References: [[npm]](https://blog.npmjs.org/post/185397814280/plot-to-steal-cryptocurrency-foiled-by-the-npm), [[snyk]](https://snyk.io/blog/yet-another-malicious-package-found-in-npm-targeting-cryptocurrency-wallets), [[komodo announcement]](https://komodoplatform.com/update-agama-vulnerability/)
@@ -148,7 +149,6 @@ Another resource for malicious incidents is [BadJS](https://badjs.org/) - a repo
 - [Web Developer Security Toolbox
 ](https://leanpub.com/b/webdevelopersecuritytoolbox) - Bundled Node.js and Web Security Books.
 
-
 # Companies
 - [Snyk](https://snyk.io) - A developer-first solution that automates finding & fixing vulnerabilities in your dependencies.
 - [Sqreen](https://sqreen.io) - Automated security for your web apps - real time application security protection.
@@ -162,7 +162,6 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ---
 say *hi* on [Twitter](https://twitter.com/liran_tal)
-
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
