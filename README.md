@@ -4,7 +4,7 @@
 A curated list of awesome Node.js Security resources.
 
 ![#](https://badgen.net/badge/tools/30+/blue)
-![#](https://badgen.net/badge/incidents/5+/red)
+![#](https://badgen.net/badge/incidents/10+/red)
 ![#](https://badgen.net/badge/educational/8+/green)
 
 [![liran_tal](https://badgen.net/twitter/follow/liran_tal)](https://twitter.com/liran_tal)
