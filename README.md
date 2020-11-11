@@ -104,7 +104,7 @@ A curated list of awesome Node.js Security resources.
 
 Collection of security incidents that happened in the Node.js, JavaScript and npm related communities with supporting articles:
 
-* **discord malicious npm package** - Npm package caught stealing sensitive Discord and browser files [[zdnet](https://www.zdnet.com/article/npm-package-caught-stealing-sensitive-discord-and-browser-files/)].
+* **discord malicious npm package** - Npm package caught stealing sensitive Discord and browser files [[sonatype](https://blog.sonatype.com/discord.dll-successor-to-npm-fallguys-)],  [[zdnet](https://www.zdnet.com/article/npm-package-caught-stealing-sensitive-discord-and-browser-files/)].
 * **twilio-npm** - malicious npm package opens backdoors on programmers' computers. References[[zdnet](https://www.zdnet.com/article/malicious-npm-package-opens-backdoors-on-programmers-computers)]
 * **fallguys** - malicious package stealing sensitive files. References [[zdnet](https://www.zdnet.com/article/malicious-npm-package-caught-trying-to-steal-sensitive-discord-and-browser-files/)]
 * **is-promise** - one-liner library breaks an ecosystem. References: [[Forbes Lindesay - Maintainer post-mortem]](https://medium.com/javascript-in-plain-english/is-promise-post-mortem-cab807f18dcc), [[snyk's postmortem]](https://snyk.io/blog/why-did-is-promise-happen-and-what-can-we-learn-from-it/)
