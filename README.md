@@ -140,6 +140,7 @@ Another resource for malicious incidents is [BadJS](https://badjs.org/) - a repo
  - [What is a backdoor? Let’s build one with Node.js](https://snyk.io/blog/what-is-a-backdoor/)
  - [The Anatomy of a Malicious Package](https://blog.phylum.io/malicious-javascript-code-in-npm-malware/)
  - [Why npm lockfiles can be a security blindspot for injecting malicious modules](https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/)
+ - [GitHub Actions to securely publish npm packages](https://snyk.io/blog/github-actions-to-securely-publish-npm-packages/)
 
 ## Books
 - [Secure Your Node.js Web Application: Keep Attackers Out and Users Happy](https://www.amazon.com/Secure-Your-Node-js-Web-Application-ebook/dp/B01BPPUP30) by Karl Duuna, 2016
