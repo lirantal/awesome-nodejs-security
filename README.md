@@ -127,7 +127,9 @@ Collection of security incidents that happened in the Node.js, JavaScript and np
 * **left-pad** - how one developer broke Node, Babel and thousands of projects in 11 lines of JavaScript. References: [[left-pad.io]](http://left-pad.io), [[The Register]](https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos).
 * **jdb.js - db-json.js** - malicious npm packages caught installing remote access trojans. References: [[zdnet.com]](https://www.zdnet.com/google-amp/article/malicious-npm-packages-caught-installing-remote-access-trojans/), [[Bleepingcomputer]](https://www.bleepingcomputer.com/news/microsoft/malicious-npm-packages-used-to-install-njrat-remote-access-trojan/).
 
-Another resource for malicious incidents is [BadJS](https://badjs.org/) - a repository of malicious JavaScript that has been found in websites, extensions, npm packages, and anywhere else JavaScript lives.
+Follow-up notes:
+* A resource for malicious incidents is [BadJS](https://badjs.org/) - a repository of malicious JavaScript that has been found in websites, extensions, npm packages, and anywhere else JavaScript lives.
+* [npm zoo](https://github.com/spaceraccoon/npm-zoo) is an archive keeping track of the original malicious packages source code for educational purposes.
 
 # Educational
 
