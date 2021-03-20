@@ -53,7 +53,6 @@ A curated list of awesome Node.js Security resources.
 - [Trust But Verify](https://github.com/verifynpm/tbv) - TBV compares an npm package with its source repository to ensure the resulting artifact is the same.
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) - lint lockfiles for improved security and trust policies to keep clean from malicious package injection and other insecure configurations.
 - [pkgsign](https://github.com/RedpointGames/pkgsign) - A CLI tool for signing and verifying npm and yarn packages.
-- [sast-scan](https://github.com/AppThreat/sast-scan) - Fully open-source SAST scanner supporting a range of languages and frameworks.
 - [semgrep](https://semgrep.dev) - Open-source, offline, easy-to-customize static analysis for many languages. Some others on this list (NodeJSScan) use semgrep as their engine.
 - [npm-scan](https://github.com/spaceraccoon/npm-scan) - An extensible, heuristic-based vulnerability scanning tool for installed npm packages.
 - [js-x-ray](https://github.com/fraxken/js-x-ray) - JavaScript and Node.js SAST scanner capable of detecting various well-known malicious code patterns (Unsafe import, Unsafe stmt, Unsafe RegEx, encoded literals, minified and obfuscated codes).
