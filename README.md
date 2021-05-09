@@ -100,6 +100,7 @@ A curated list of awesome Node.js Security resources.
 - [fastify-rate-limit](https://github.com/fastify/fastify-rate-limit) A low overhead rate limiter for your routes.
 - [secure-json-parse](https://github.com/fastify/secure-json-parse) `JSON.parse()` drop-in replacement with prototype poisoning protection.
 - [express-brute](https://github.com/AdamPflug/express-brute) A brute-force protection middleware for express routes that rate-limits incoming requests, increasing the delay with each request in a fibonacci-like sequence.
+- [allowed-scripts](https://github.com/dominykas/allow-scripts) Execute allowed `npm install` lifecycle scripts.
 
 # Security Incidents
 
