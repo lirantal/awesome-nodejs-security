@@ -155,6 +155,7 @@ Follow-up notes:
 ](https://leanpub.com/securingnodeapps) by Ben Edmunds, 2016 - Learn the security basics that a senior developer usually acquires over years of experience, all condensed down into one quick and easy handbook.
 - [Web Developer Security Toolbox
 ](https://leanpub.com/b/webdevelopersecuritytoolbox) - Bundled Node.js and Web Security Books.
+- [Holistic Info-Sec for Web Developers](https://www.holisticinfosecforwebdevelopers.com) by Kim Carter, 2019 - Read free on-line and/or purchase this series in which we learn how to apply security to software development with a holistic approach.
 
 # Companies
 - [Snyk](https://snyk.io) - A developer-first solution that automates finding & fixing vulnerabilities in your dependencies.
