@@ -4,7 +4,7 @@
 A curated list of awesome Node.js Security resources.
 
 ![#](https://badgen.net/badge/tools/30+/blue)
-![#](https://badgen.net/badge/incidents/10+/red)
+![#](https://badgen.net/badge/incidents/15+/red)
 ![#](https://badgen.net/badge/educational/8+/green)
 
 [![liran_tal](https://badgen.net/twitter/follow/liran_tal)](https://twitter.com/liran_tal)
@@ -136,6 +136,7 @@ Collection of security incidents that happened in the Node.js, JavaScript and np
 * **left-pad** - how one developer broke Node, Babel and thousands of projects in 11 lines of JavaScript. References: [[left-pad.io]](http://left-pad.io), [[The Register]](https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos).
 * **jdb.js - db-json.js** - malicious npm packages caught installing remote access trojans. References: [[zdnet.com]](https://www.zdnet.com/google-amp/article/malicious-npm-packages-caught-installing-remote-access-trojans/), [[Bleepingcomputer]](https://www.bleepingcomputer.com/news/microsoft/malicious-npm-packages-used-to-install-njrat-remote-access-trojan/).
 * **pac-resolver** - can enable threat actors on the local network to run arbitrary code within your Node.js process whenever it attempts to make an HTTP request. References: [[arstechnica.com]](https://arstechnica.com/information-technology/2021/09/npm-package-with-3-million-weekly-downloads-had-a-severe-vulnerability/).
+* **coa** and **rc** packages - Popular npm library 'coa' was hijacked today with malicious code injected into it, ephemerally impacting React pipelines around the world [[Bleepingcomputer]](https://www.bleepingcomputer.com/news/security/popular-coa-npm-library-hijacked-to-steal-user-passwords), [[the record]](https://therecord.media/malware-found-in-coa-and-rc-two-npm-packages-with-23m-weekly-downloads/), [[npm tweet]](https://twitter.com/npmjs/status/1456310627362742284), [[npm tweet for rc]](https://twitter.com/npmjs/status/1456398505832976384).
 
 Follow-up notes:
 * A resource for malicious incidents is [BadJS](https://badjs.org/) - a repository of malicious JavaScript that has been found in websites, extensions, npm packages, and anywhere else JavaScript lives.
