@@ -114,6 +114,7 @@ A curated list of awesome Node.js Security resources.
 
 Collection of security incidents that happened in the Node.js, JavaScript and npm related communities with supporting articles:
 
+* 17 JavaScript libraries contained malicious code to collect and steal Discord access tokens and environment variables from users’ computers - [[TheRecord](https://therecord.media/malicious-npm-packages-caught-stealing-discord-tokens-environment-variables/)].
 * npm package ownership process [firing back](https://twitter.com/Andrewmd5/status/1423915732979437571) and exposing potential vectors for supply chain security risks.
 * **discord malicious npm package** - Npm package caught stealing sensitive Discord and browser files [[sonatype](https://blog.sonatype.com/discord.dll-successor-to-npm-fallguys-)],  [[zdnet](https://www.zdnet.com/article/npm-package-caught-stealing-sensitive-discord-and-browser-files/)].
 * **twilio-npm** - malicious npm package opens backdoors on programmers' computers. References[[zdnet](https://www.zdnet.com/article/malicious-npm-package-opens-backdoors-on-programmers-computers)]
