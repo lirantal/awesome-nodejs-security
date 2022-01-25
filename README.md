@@ -98,6 +98,7 @@ A curated list of awesome Node.js Security resources.
 - [confused](https://github.com/visma-prodsec/confused) - Tool to check for dependency confusion vulnerabilities in multiple package management systems. See [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610) for reference on the reasoning for this tool.
 
 ## Security Hardening
+- [NopPP - No Prototype Pollution](https://github.com/snyk-labs/nopp) - Tiny helper to protect against Prototype Pollution vulnerabilities in your application regardless if they introduced in your own code or in 3rd-party code.
 - [anti-trojan-source](https://github.com/lirantal/anti-trojan-source) - Detect trojan source attacks that employ unicode bidi attacks to inject malicious code.
 - [express-limiter](https://www.npmjs.com/package/express-limiter) - Rate limiting middleware for Express applications built on redis.
 - [limits](https://www.npmjs.com/package/limits) - Simple express/connect middleware to set limit to upload size, set request timeout etc.
