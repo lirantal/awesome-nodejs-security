@@ -7,7 +7,7 @@ A curated list of awesome Node.js Security resources.
 ![#](https://badgen.net/badge/incidents/15+/red)
 ![#](https://badgen.net/badge/educational/8+/green)
 
-[![liran_tal](https://badgen.net/twitter/follow/liran_tal)](https://twitter.com/liran_tal)
+[![liran_tal](https://img.shields.io/twitter/url/https/twitter.com/liran_tal.svg?style=social&label=Follow%20%40Liran%20Tal)](https://twitter.com/liran_tal)
 
  *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
