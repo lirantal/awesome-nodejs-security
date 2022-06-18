@@ -59,6 +59,7 @@ A curated list of awesome Node.js Security resources.
 - [js-x-ray](https://github.com/fraxken/js-x-ray) - JavaScript and Node.js SAST scanner capable of detecting various well-known malicious code patterns (Unsafe import, Unsafe stmt, Unsafe RegEx, encoded literals, minified and obfuscated codes).
 - [cspscanner](https://cspscanner.com/) - CSP Scanner helps developers and security experts to easily inspect and evaluate a site’s Content Security (CSP).
 - [eslint-plugin-anti-trojan-source](https://github.com/lirantal/eslint-plugin-anti-trojan-source) - ESLint plugin to detect and prevent Trojan Source attacks from entering your codebase.
+- [sdc-check](https://github.com/mbalabash/sdc-check) - Small tool to inform you about potential risks in your project dependencies list
 
 ## Dynamic Application Security Testing
 
