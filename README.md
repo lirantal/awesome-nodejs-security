@@ -177,7 +177,7 @@ Follow-up notes:
 ](https://leanpub.com/securingnodeapps) by Ben Edmunds, 2016 - Learn the security basics that a senior developer usually acquires over years of experience, all condensed down into one quick and easy handbook.
 - [Web Developer Security Toolbox
 ](https://leanpub.com/b/webdevelopersecuritytoolbox) - Bundled Node.js and Web Security Books.
-- [Thomas Gentilhomme](https://github.com/fraxken)'s French book: [Become a Node.js Developer](https://docs.google.com/document/d/1JHgmEFkc8Py4XSuCB8_DQ5FFEJoogyeninFK6ucTd4o/edit#) 
+- [Thomas Gentilhomme](https://github.com/fraxken) book: [Become a Node.js Developer](https://github.com/fraxken/ebook_nodejs) 
 
 # Companies
 - [Snyk](https://snyk.io) - A developer-first solution that automates finding & fixing vulnerabilities in your dependencies.
