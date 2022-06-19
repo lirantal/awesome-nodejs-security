@@ -183,11 +183,11 @@ Follow-up notes:
 ](https://leanpub.com/securingnodeapps) by Ben Edmunds, 2016 - Learn the security basics that a senior developer usually acquires over years of experience, all condensed down into one quick and easy handbook.
 - [Web Developer Security Toolbox
 ](https://leanpub.com/b/webdevelopersecuritytoolbox) - Bundled Node.js and Web Security Books.
+- [Thomas Gentilhomme](https://github.com/fraxken) book: [Become a Node.js Developer](https://github.com/fraxken/ebook_nodejs) 
 
 # Companies
 - [Snyk](https://snyk.io) - A developer-first solution that automates finding & fixing vulnerabilities in your dependencies.
 - [Sqreen](https://sqreen.io) - Automated security for your web apps - real time application security protection.
-- ~~[Intrinsic](https://intrinsic.com) - Intrinsic secures your sensitive data from bugs and malicious code, allowing you to run all code safely.~~
 - [NodeSource](https://nodesource.com) - Mission-critical Node.js applications. Provides N|Solid and Node Certified Modules.
 - [GuardRails](https://www.guardrails.io) - A GitHub App that gives you instant security feedback in your Pull Requests.
 - [NodeSecure](https://github.com/NodeSecure) - An organization of developers building free and open source JavaScript/Node.js security tools.
