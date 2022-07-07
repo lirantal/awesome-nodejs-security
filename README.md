@@ -164,7 +164,7 @@ Follow-up notes:
  - [DomGoat](https://domgo.at/cxss/intro) - Client XSS happens when untrusted data from sources ends up in sinks. Information and excercises on different sources, different sinks and example of XSS occuring due to them in the menu on the left-hand side. 
 
 ## Articles
- - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/)
+ - [A Roadmap for Node.js Security](https://node-sec-roadmap-fyi.uc.r.appspot.com/) (original domain https://nodesecroadmap.fyi/ not available. See [#42](https://github.com/lirantal/awesome-nodejs-security/issues/42))
  - [10 npm security best practices](https://snyk.io/blog/ten-npm-security-best-practices/)
  - [OWASP Cheat Sheet Series - Node.js Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_security_cheat_sheet.html)
  - [What is a backdoor? Let’s build one with Node.js](https://snyk.io/blog/what-is-a-backdoor/)
