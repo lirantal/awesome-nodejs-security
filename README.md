@@ -114,7 +114,22 @@ A curated list of awesome Node.js Security resources.
 - [express-brute](https://github.com/AdamPflug/express-brute) A brute-force protection middleware for express routes that rate-limits incoming requests, increasing the delay with each request in a fibonacci-like sequence.
 - [allowed-scripts](https://github.com/dominykas/allow-scripts) Execute allowed `npm install` lifecycle scripts.
 
+
+
 # Security Incidents
+
+## Protestware supply chain security issues
+
+The following is a list of known protestware spanning across other ecosystems too:
+- [PyPI package author of atomicwrites deletes his own code](https://www.bleepingcomputer.com/news/security/pypi-mandates-2fa-for-critical-projects-developer-pushes-back/) 
+- [left-pad](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/)
+- `event-source-polyfill`, Mariusz Nowak and their `es5-ext`, Evan Jacobs and their `styled-components`, [node-ipc](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/), `peacenotwar`, [nestjs-pino](https://socket.dev/npm/package/nestjs-pino/files/3.1.1/postinstall.js) - all with regards to the Russian-Ukraine crisis.
+
+Articles covering the topics around protestware are:
+- [2022's Techcrunch protestware review](https://techcrunch.com/2022/07/27/protestware-code-sabotage/)
+- [2022's Snyk protestware types](https://snyk.io/blog/protestware-open-source-types-impact/)
+
+## npm and JavsScript specific security incidents and supply chain security issues
 
 Collection of security incidents that happened in the Node.js, JavaScript and npm related communities with supporting articles:
 
