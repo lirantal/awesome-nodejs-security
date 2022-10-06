@@ -60,6 +60,7 @@ A curated list of awesome Node.js Security resources.
 - [cspscanner](https://cspscanner.com/) - CSP Scanner helps developers and security experts to easily inspect and evaluate a site’s Content Security (CSP).
 - [eslint-plugin-anti-trojan-source](https://github.com/lirantal/eslint-plugin-anti-trojan-source) - ESLint plugin to detect and prevent Trojan Source attacks from entering your codebase.
 - [sdc-check](https://github.com/mbalabash/sdc-check) - Small tool to inform you about potential risks in your project dependencies list
+- [fix-lockfile-integrity](https://github.com/yoavain/fix-lockfile-integrity) - A CLI tool to fix weak integrity hash (sha1) to a more secure integrity hash (sha512) in your npm lockfile.
 
 ## Dynamic Application Security Testing
 
