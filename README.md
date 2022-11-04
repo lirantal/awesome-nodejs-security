@@ -40,6 +40,7 @@ A curated list of awesome Node.js Security resources.
 - [koa-helmet](https://www.npmjs.com/package/koa-helmet) - koa-helmet helps you secure your Koa apps by setting various HTTP headers.
 - [blankie](https://github.com/nlf/blankie) - CSP plugin for [hapi](https://github.com/hapijs/hapi).
 - [fastify-helmet](https://github.com/fastify/fastify-helmet) - fastify-helmet helps you secure your [fastify](https://www.fastify.io/) apps by setting important secutiry headers.
+- [nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Security Module for Nuxt based on OWASP Top 10 and Helmet.
 
 ## Static Code Analysis
 - [eslint-plugin-security](https://www.npmjs.com/package/eslint-plugin-security) - ESLint rules for Node Security. This project will help identify potential security hotspots, but finds a lot of false positives which need triage by a human.
