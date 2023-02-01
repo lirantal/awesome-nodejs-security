@@ -126,6 +126,7 @@ The following is a list of known protestware spanning across other ecosystems to
 - [PyPI package author of atomicwrites deletes his own code](https://www.bleepingcomputer.com/news/security/pypi-mandates-2fa-for-critical-projects-developer-pushes-back/) 
 - [left-pad](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/)
 - `event-source-polyfill`, Mariusz Nowak and their `es5-ext`, Evan Jacobs and their `styled-components`, [node-ipc](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/), `peacenotwar`, [nestjs-pino](https://socket.dev/npm/package/nestjs-pino/files/3.1.1/postinstall.js) - all with regards to the Russian-Ukraine crisis.
+- The [Open Souce Peace](https://github.com/open-source-peace/protestware-list) organization maintains a list of identified protestware incidents.
 
 Articles covering the topics around protestware are:
 - [2022's Techcrunch protestware review](https://techcrunch.com/2022/07/27/protestware-code-sabotage/)
