@@ -31,6 +31,7 @@ A curated list of awesome Node.js Security resources.
   - [Articles](#articles)
   - [Research Papers](#research-papers)
   - [Books](#books)
+  - [Roadmaps](#roadmap)
 - [Companies](#companies)
 
 # Tools
@@ -212,6 +213,9 @@ Follow-up notes:
 - [Web Developer Security Toolbox
 ](https://leanpub.com/b/webdevelopersecuritytoolbox) - Bundled Node.js and Web Security Books.
 - [Thomas Gentilhomme](https://github.com/fraxken) book: [Become a Node.js Developer](https://github.com/fraxken/ebook_nodejs) 
+
+## Roadmaps
+  - [Node.js Developer Roadmap](#https://roadmap.sh/nodejs)
 
 # Companies
 - [Snyk](https://snyk.io) - A developer-first solution that automates finding & fixing vulnerabilities in your dependencies.
