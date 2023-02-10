@@ -215,7 +215,7 @@ Follow-up notes:
 - [Thomas Gentilhomme](https://github.com/fraxken) book: [Become a Node.js Developer](https://github.com/fraxken/ebook_nodejs) 
 
 ## Roadmaps
-  - [Node.js Developer Roadmap](#https://roadmap.sh/nodejs)
+  - [Node.js Developer Roadmap](https://roadmap.sh/nodejs)
 
 # Companies
 - [Snyk](https://snyk.io) - A developer-first solution that automates finding & fixing vulnerabilities in your dependencies.
