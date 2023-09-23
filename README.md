@@ -209,6 +209,7 @@ Follow-up notes:
  - [GitHub Actions to securely publish npm packages](https://snyk.io/blog/github-actions-to-securely-publish-npm-packages/)
  - [Top 11 Node.js security best practices | Sqreen.com](https://blog.sqreen.com/nodejs-security-best-practices/)
  - [A Tale of (prototype) Poisoning](https://www.fastify.io/docs/latest/Guides/Prototype-Poisoning/)
+ - [Securizing your GitHub org](https://dev.to/nodesecure/securize-your-github-org-4lb7)
 
 ## Research Papers
  - [Deep dive into Visual Studio Code extension security vulnerabilities](https://snyk.io/blog/visual-studio-code-extension-security-vulnerabilities-deep-dive)
