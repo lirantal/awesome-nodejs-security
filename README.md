@@ -134,7 +134,7 @@ Articles covering the topics around protestware are:
 - [2022's Techcrunch protestware review](https://techcrunch.com/2022/07/27/protestware-code-sabotage/)
 - [2022's Snyk protestware types](https://snyk.io/blog/protestware-open-source-types-impact/)
 
-## npm and JavsScript specific security incidents and supply chain security issues
+## npm and JavaScript specific security incidents and supply chain security issues
 
 Collection of security incidents that happened in the Node.js, JavaScript and npm related communities with supporting articles:
 
