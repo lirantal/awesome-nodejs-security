@@ -64,6 +64,7 @@ A curated list of awesome Node.js Security resources.
 - [sdc-check](https://github.com/mbalabash/sdc-check) - Small tool to inform you about potential risks in your project dependencies list
 - [fix-lockfile-integrity](https://github.com/yoavain/fix-lockfile-integrity) - A CLI tool to fix weak integrity hash (sha1) to a more secure integrity hash (sha512) in your npm lockfile.
 - [Bearer](https://github.com/Bearer/bearer) - A CLI tool to find and help you fix security and privacy risks in your code according to OWASP Top 10.
+- [GuardDog](https://github.com/DataDog/guarddog) - GuardDog is a CLI tool to Identify malicious PyPI and npm packages
 
 ## Dynamic Application Security Testing
 
