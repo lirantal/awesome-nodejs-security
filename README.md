@@ -65,7 +65,7 @@ A curated list of awesome Node.js Security resources.
 - [fix-lockfile-integrity](https://github.com/yoavain/fix-lockfile-integrity) - A CLI tool to fix weak integrity hash (sha1) to a more secure integrity hash (sha512) in your npm lockfile.
 - [Bearer](https://github.com/Bearer/bearer) - A CLI tool to find and help you fix security and privacy risks in your code according to OWASP Top 10.
 - [GuardDog](https://github.com/DataDog/guarddog) - GuardDog is a CLI tool to Identify malicious PyPI and npm packages
-- [NodeJs-Securify](https://github.com/prayas7102/NodejsSecurify) - an advanced npm package (CLI based White Box  Automation), delivers a robust security analysis to identify potential vulnerabilities, including Brute Force Attacks, Callback Hell, XSS Attacks, Insecure Security Headers, Unsafe npm packages, Insecure Authentication, and Code Injection, following OWASP guidelines. Utilizing logistic regression and Esprima-based code operations, it provides a comprehensive approach to vulnerability detection.
+- [NodeJs-Securify](https://github.com/prayas7102/NodejsSecurify) - an advanced npm package (CLI based White Box  Automation), delivers a robust security analysis to identify potential vulnerabilities, including Brute Force Attacks, Callback Hell, XSS Attacks, Insecure Security Headers, Unsafe npm packages, Insecure Authentication, and Code Injection, following OWASP guidelines. Utilizing logistic regression and Esprima-based code operations, it provides a comprehensive approach to vulnerability detection. [Check the NPM Package](https://www.npmjs.com/package/node-js-securify)
 
 ## Dynamic Application Security Testing
 
