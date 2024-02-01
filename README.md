@@ -230,7 +230,9 @@ Follow-up notes:
 ](https://leanpub.com/securingnodeapps) by Ben Edmunds, 2016 - Learn the security basics that a senior developer usually acquires over years of experience, all condensed down into one quick and easy handbook.
 - [Web Developer Security Toolbox
 ](https://leanpub.com/b/webdevelopersecuritytoolbox) - Bundled Node.js and Web Security Books.
-- [Thomas Gentilhomme](https://github.com/fraxken) book: [Become a Node.js Developer](https://github.com/fraxken/ebook_nodejs) 
+- [Thomas Gentilhomme](https://github.com/fraxken) book: [Become a Node.js Developer](https://github.com/fraxken/ebook_nodejs)
+- [Node.js Secure Coding: Defending Against Command Injection Vulnerabilities](https://www.nodejs-security.com/book/command-injection/)
+- [Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities](https://www.nodejs-security.com/book/path-traversal)
 
 ## Roadmaps
   - [Node.js Developer Roadmap](https://roadmap.sh/nodejs)
