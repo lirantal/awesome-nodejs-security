@@ -43,6 +43,10 @@ A curated list of awesome Node.js Security resources.
 - [fastify-helmet](https://github.com/fastify/fastify-helmet) - fastify-helmet helps you secure your [fastify](https://www.fastify.io/) apps by setting important secutiry headers.
 - [nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Security Module for Nuxt based on OWASP Top 10 and Helmet.
 
+## GitHub Actions and CI/CD Security
+- [New dependencies advisor](https://github.com/marketplace/actions/new-dependencies-advisor) - GitHub Action adding comments to pull requests with package health information about newly added npm dependencies.
+- [OpenSSF Scorecard Monitor](https://github.com/marketplace/actions/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts.
+
 ## Static Code Analysis
 - [eslint-plugin-security](https://www.npmjs.com/package/eslint-plugin-security) - ESLint rules for Node Security. This project will help identify potential security hotspots, but finds a lot of false positives which need triage by a human.
 - [tslint-plugin-security](https://www.npmjs.com/package/tslint-config-security) - TSLint rules for Node Security. This project will help identify potential security hotspots, but finds a lot of false positives which need triage by a human.
