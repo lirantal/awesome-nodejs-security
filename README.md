@@ -242,6 +242,7 @@ Follow-up notes:
 - [Thomas Gentilhomme](https://github.com/fraxken) book: [Become a Node.js Developer](https://github.com/fraxken/ebook_nodejs)
 - [Node.js Secure Coding: Defending Against Command Injection Vulnerabilities](https://www.nodejs-security.com/book/command-injection/)
 - [Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities](https://www.nodejs-security.com/book/path-traversal)
+- [Node.js Secure Coding: Mitigate and Weaponize Code Injection Vulnerabilities](https://www.nodejs-security.com/book/code-injection)
 
 ## Roadmaps
   - [Node.js Developer Roadmap](https://roadmap.sh/nodejs)
