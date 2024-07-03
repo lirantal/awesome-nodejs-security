@@ -214,10 +214,8 @@ Follow-up notes:
 
 # Educational
 
-## Hacking Playground
- - [OWASP NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
- - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) - The OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
- - [DomGoat](https://domgo.at/cxss/intro) - Client XSS happens when untrusted data from sources ends up in sinks. Information and excercises on different sources, different sinks and example of XSS occuring due to them in the menu on the left-hand side. 
+## Newsletters
+ - [Node.js Security newsletter](https://newsletter.nodejs-security.com/) - JavaScript & web security insights, latest security vulnerabilities, hands-on secure code insights, npm ecosystem incidents, Node.js runtime feature updates, Bun and Deno runtime updates, secure coding best practices, malware, malicious packages, and more.
 
 ## Articles
  - [A Roadmap for Node.js Security](https://node-sec-roadmap-fyi.uc.r.appspot.com/) (original domain https://nodesecroadmap.fyi/ not available. See [#42](https://github.com/lirantal/awesome-nodejs-security/issues/42))
@@ -254,6 +252,11 @@ Follow-up notes:
 - [NodeSource](https://nodesource.com) - Mission-critical Node.js applications. Provides N|Solid and Node Certified Modules.
 - [GuardRails](https://www.guardrails.io) - A GitHub App that gives you instant security feedback in your Pull Requests.
 - [NodeSecure](https://github.com/NodeSecure) - An organization of developers building free and open source JavaScript/Node.js security tools.
+
+## Hacking Playground
+ - [OWASP NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
+ - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) - The OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
+ - [DomGoat](https://domgo.at/cxss/intro) - Client XSS happens when untrusted data from sources ends up in sinks. Information and excercises on different sources, different sinks and example of XSS occuring due to them in the menu on the left-hand side. 
 
 # Contributing
 Found an awesome project, package, article, other type of resources related to Node.js Security? Send me a pull request!
