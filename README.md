@@ -154,6 +154,7 @@ Collection of security incidents that happened in the Node.js, JavaScript and np
 | 2024 June 11  | `cors-parser` npm package hides cross-platform backdoor in PNG files | [Sonatype](https://www.sonatype.com/blog/cors-parser-npm-package-hides-cross-platform-backdoor-in-png-files)
 | 2024 June 03  | npm regsitry cache poisoning attack | [landh.tech](https://www.landh.tech/blog/20240603-npm-cache-poisoning/)
 | 2024 Apr 26   | Fake job interviews target developers with new Python backdoor | [Bleeping Computer](https://www.bleepingcomputer.com/news/security/fake-job-interviews-target-developers-with-new-python-backdoor/)
+| 2024 April 16 | Tea tokens and developers abusing OSS infrastructure for monetization | [Sonatype](https://www.sonatype.com/blog/devs-flood-npm-with-10000-packages-to-reward-themselves-with-tea-tokens)
 | 2024 Feb 6    | noblox.js-proxy-server malicious npm Package Masquerades as Noblox.js, Targeting Roblox Users for Data Theft | [Socket](https://socket.dev/blog/malicious-npm-package-masquerades-as-noblox-js)
 | 2024 Jan 25   | npm flooded with 748 packages that store movies | [Sonatype](https://blog.sonatype.com/npm-flooded-with-748-packages-that-store-movies)
 | 2024 Jan 3    | An `everything` package with a registry-wide dependencies prevents from packages to be unpublished | [SC Media](https://www.scmagazine.com/news/npm-registry-prank-leaves-developers-unable-to-unpublish-packages)
