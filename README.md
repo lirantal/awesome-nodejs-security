@@ -25,6 +25,7 @@ A curated list of awesome Node.js Security resources.
   - [CSRF](#csrf)
   - [Vulnerabilities and Security Advisories](#vulnerabilities-and-security-advisories)
   - [Security Hardening](#security-hardening)
+- [Data Sources](#data-sources)
 - [Security Incidents](#security-incidents)
 - [Educational](#educational)
   - [Hacking Playground](#hacking-playground)
@@ -128,7 +129,10 @@ A curated list of awesome Node.js Security resources.
 - [moddable](https://www.moddable.com/) Implements Hardened JavaScript as the security model for embedded systems.
 - [is-my-node-vulnerable](https://github.com/RafaelGSS/is-my-node-vulnerable) - package that checks if your Node.js installation is vulnerable to known security vulnerabilities.
 
+# Data Sources
 
+- [resource](https://nodejs.org/dist/index.json) - A structured list of all the Node.js versions, the binary builds, the dependencies they include (npm, zlib, openssl) along with their versions, whether the release is a security release and whether it is an LTS.
+- [resource](https://github.com/nodejs/security-wg/tree/main/vuln/core) - The `nodejs/secuirty-wg` GitHub repository maintains a `/vuln/core` directory with all the CVEs applied to Node.js runtime versions.
 
 # Security Incidents
 
