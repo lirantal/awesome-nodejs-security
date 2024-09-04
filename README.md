@@ -43,6 +43,7 @@ A curated list of awesome Node.js Security resources.
 - [blankie](https://github.com/nlf/blankie) - CSP plugin for [hapi](https://github.com/hapijs/hapi).
 - [fastify-helmet](https://github.com/fastify/fastify-helmet) - fastify-helmet helps you secure your [fastify](https://www.fastify.io/) apps by setting important security headers.
 - [nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Security Module for Nuxt based on OWASP Top 10 and Helmet.
+- [reporting-api](https://github.com/wille/reporting-api) - Setup and collect CSP, Reporting API v0 and v1 reports to reliabily parse them to be processed by the user
 
 ## GitHub Actions and CI/CD Security
 - [New dependencies advisor](https://github.com/marketplace/actions/new-dependencies-advisor) - GitHub Action adding comments to pull requests with package health information about newly added npm dependencies.
