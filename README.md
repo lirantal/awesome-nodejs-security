@@ -9,14 +9,28 @@ A curated list of awesome Node.js Security resources.
 
 [![liran_tal](https://img.shields.io/twitter/url/https/twitter.com/liran_tal.svg?style=social&label=Follow%20%40Liran%20Tal)](https://twitter.com/liran_tal)
 
- *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+<br/>
+
+<hr/>
+
+<p>
+  <a href="https://nodejs-security.com">
+    <img alt="Node.js Security" align="center" src="https://img.shields.io/badge/%F0%9F%A6%84-Learn%20Node.js%20Security%E2%86%92-gray.svg?colorA=5734F5&colorB=5734F5&style=flat" />
+  </a>
+</p>
+
+![Screenshot 2024-09-12 at 20 14 27](https://github.com/user-attachments/assets/586f3151-eed9-4542-92f1-de9237f6783c)
+
+<p>
+  Learn Node.js Secure Coding techniques and best practices from <a href="https://www.lirantal.com">Liran Tal</a>
+</p>
 
 </div>
 <br/>
 
 # Contents
 
-- [Tools](#projects)
+- [Tools](#tools)
   - [Web Framework Hardening](#web-framework-hardening)
   - [Static Code Analysis](#static-code-analysis)
   - [Dynamic Application Security Testing](#dynamic-application-security-testing)
@@ -32,7 +46,7 @@ A curated list of awesome Node.js Security resources.
   - [Articles](#articles)
   - [Research Papers](#research-papers)
   - [Books](#books)
-  - [Roadmaps](#roadmap)
+  - [Roadmaps](#roadmaps)
 - [Companies](#companies)
 
 # Tools
