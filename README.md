@@ -111,6 +111,7 @@ A curated list of awesome Node.js Security resources.
 - [fastify-csrf](https://github.com/fastify/fastify-csrf) - A plugin for adding CSRF protection to [fastify](https://www.fastify.io).
 
 ## Vulnerabilities and Security Advisories
+- [Vulert](https://vulert.com) - Vulert helps developers secure their software by monitoring and alerting them to vulnerabilities in open-source dependencies—without requiring access to their code. It supports dependencies from Js, PHP, Java, Python, and many more.
 - [npq](https://github.com/lirantal/npq) - Safely install packages with npm or yarn by auditing them as part of your install process.
 - [snyk](https://www.npmjs.com/package/snyk) - Snyk helps you find, fix and monitor known vulnerabilities in Node.js npm, Ruby and Java dependencies, both on an ad hoc basis and as part of your CI (Build) system.
 - [node-release-lines](https://www.npmjs.com/package/node-release-lines) - Introspection API for Node.js release metadata. Provides information about release lines, their relative status along with details of each release.
