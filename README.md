@@ -124,6 +124,7 @@ A curated list of awesome Node.js Security resources.
 - [joi-security](https://github.com/Saluki/joi-security/) - Detect security flaws in Joi validation schemas.
 - [confused](https://github.com/visma-prodsec/confused) - Tool to check for dependency confusion vulnerabilities in multiple package management systems. See [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610) for reference on the reasoning for this tool.
 - [nodejs-cve-checker](https://github.com/nodejs/nodejs-cve-checker) - A simple tool that validates CVEs were published to NVD after a Node.js Security Release.
+- [zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions and CI/CD workflows.
 
 ## Security Hardening
 - [hijagger](https://github.com/firefart/hijagger) - Checks all maintainers of all npm and PyPI packages for hijackable packages through domain re-registration.
