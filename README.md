@@ -178,6 +178,7 @@ Collection of security incidents that happened in the Node.js, JavaScript and np
 | 2025 Apr 15  | Russian hackers typosquat express-exp | [Safety](https://www.getsafety.com/blog-posts/russian-hackers-manipulate-npm-to-make-realistic-packages)
 | 2025 Apr 10  | pdf-to-office malicious npm package | [ReversingLabs](https://www.reversinglabs.com/blog/atomic-and-exodus-crypto-wallets-targeted-in-malicious-npm-campaign)
 | 2025 Apr 5   | North Korean Hackers Deploy BeaverTail Malware via 11 Malicious npm Packages | [socket](https://socket.dev/blog/lazarus-expands-malicious-npm-campaign-11-new-packages-add-malware-loaders-and-bitbucket)
+| 2025 Mar 26  | Malicious packages `ethers-provider2` and `ethers-providerz` | [ReversingLabs](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell)
 | 2025 Mar 11  | North Korean Lazarus group targets npm packages  is-buffer-validator, yoojae-validator, event-handle-package, array-empty-validator, react-event-dependency, and auth-validator | [socket](https://socket.dev/blog/lazarus-strikes-npm-again-with-a-new-wave-of-malicious-packages)
 | 2025 Feb 26  | Malicious Code Hidden in NPM Packages | [cycode](https://cycode.com/blog/malicious-code-hidden-in-npm-packages/)
 | 2025 Jan 14  | npm command confusion | [Checkmarx](https://checkmarx.com/blog/npm-command-confusion/)
