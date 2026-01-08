@@ -100,6 +100,7 @@ A curated list of awesome Node.js Security resources.
 - [DOMPurify](https://github.com/cure53/DOMPurify) - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
 - [envalid](https://github.com/af/envalid) - Envalid is a small library for validating and accessing environment variables in Node.js.
 - [data-guardian](https://www.npmjs.com/package/data-guardian) - data-guardian is a tiny, highly customizable lib which can mask sensitive data in arbitrary entities and can help with [OWASP Protect Data everywhere](https://owasp.org/www-project-proactive-controls/v3/en/c8-protect-data-everywhere).
+- [is-path-inside-secure](https://www.npmjs.com/package/is-path-inside-secure) - is-path-inside-secure is a symlink-aware implementation of the popular [is-path-inside](https://www.npmjs.com/package/is-path-inside) npm package, designed to help prevent path-traversal vulnerabilities.
 
 ## Secure Composition
 - [pug-plugin-trusted-types](https://www.npmjs.com/package/pug-plugin-trusted-types) - Pug template plugin makes it easy to securely compose HTML from untrusted inputs and provides CSP & CSRF [automagic](https://www.npmjs.com/package/pug-plugin-trusted-types#hdr-automagic).
