@@ -56,6 +56,7 @@ A curated list of awesome Node.js Security resources.
 - [koa-helmet](https://www.npmjs.com/package/koa-helmet) - koa-helmet helps you secure your Koa apps by setting various HTTP headers.
 - [blankie](https://github.com/nlf/blankie) - CSP plugin for [hapi](https://github.com/hapijs/hapi).
 - [fastify-helmet](https://github.com/fastify/fastify-helmet) - fastify-helmet helps you secure your [fastify](https://www.fastify.io/) apps by setting important security headers.
+- [nis2-express-middleware](https://github.com/nis2shield/express-nis2-middleware) - Comprehensive Express.js middleware for EU NIS2 compliance (logging, active defense, and secure defaults).
 - [nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Security Module for Nuxt based on OWASP Top 10 and Helmet.
 - [reporting-api](https://github.com/wille/reporting-api) - Setup and collect CSP, Reporting API v0 and v1 reports to reliabily parse them to be processed by the user
 
