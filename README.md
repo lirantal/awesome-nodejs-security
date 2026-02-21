@@ -282,7 +282,7 @@ Follow-up notes:
  - [The Anatomy of a Malicious Package](https://blog.phylum.io/malicious-javascript-code-in-npm-malware/)
  - [Why npm lockfiles can be a security blindspot for injecting malicious modules](https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/)
  - [GitHub Actions to securely publish npm packages](https://snyk.io/blog/github-actions-to-securely-publish-npm-packages/)
- - [Top 11 Node.js security best practices | Sqreen.com](https://blog.sqreen.com/nodejs-security-best-practices/)
+ - [Top 11 Node.js security best practices | Sqreen.com](https://web.archive.org/web/20241005082455/https://blog.sqreen.com/nodejs-security-best-practices/)
  - [A Tale of (prototype) Poisoning](https://www.fastify.io/docs/latest/Guides/Prototype-Poisoning/)
  - [Securizing your GitHub org](https://dev.to/nodesecure/securize-your-github-org-4lb7)
  - [Research Case Study: Supply Chain Security at Scale – Insights into NPM Account Takeovers](https://laburity.com/research-npm-account-takeovers/)
@@ -308,7 +308,7 @@ Follow-up notes:
 
 # Companies
 - [Snyk](https://snyk.io) - A developer-first solution that automates finding & fixing vulnerabilities in your dependencies.
-- [Sqreen](https://sqreen.io) - Automated security for your web apps - real time application security protection.
+- [Datadog ASM](https://www.datadoghq.com/product/application-security-monitoring/) - Application security monitoring with real-time threat detection and protection (formerly Sqreen, acquired 2021).
 - [NodeSource](https://nodesource.com) - Mission-critical Node.js applications. Provides N|Solid and Node Certified Modules.
 - [GuardRails](https://www.guardrails.io) - A GitHub App that gives you instant security feedback in your Pull Requests.
 - [NodeSecure](https://github.com/NodeSecure) - An organization of developers building free and open source JavaScript/Node.js security tools.
