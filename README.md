@@ -151,6 +151,7 @@ A curated list of awesome Node.js Security resources.
 - [moddable](https://www.moddable.com/) Implements Hardened JavaScript as the security model for embedded systems.
 - [is-my-node-vulnerable](https://github.com/RafaelGSS/is-my-node-vulnerable) - package that checks if your Node.js installation is vulnerable to known security vulnerabilities.
 - [@lavamoat/preinstall-always-fail](https://www.npmjs.com/package/@lavamoat/preinstall-always-fail) - npm package to assert if preinstall or postinstall scripts are running in your npm or yarn workflows.
+- [FCaptcha](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA with behavioral analysis that detects bots, vision AI agents, and headless browsers. Includes Node.js server with SHA-256 proof of work.
 - [are-scripts-enabled](https://www.npmjs.com/package/are-scripts-enabled) - npm package to assert if preinstall or postinstall scripts are running in your npm or yarn workflows.
 
 # Data Sources
