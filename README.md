@@ -155,6 +155,7 @@ A curated list of awesome Node.js Security resources.
 - [are-scripts-enabled](https://www.npmjs.com/package/are-scripts-enabled) - npm package to assert if preinstall or postinstall scripts are running in your npm or yarn workflows.
 - [FCaptcha](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA with behavioral analysis that detects bots, vision AI agents, and headless browsers. Includes Node.js server with SHA-256 proof of work.
 - [@w-r-l/verify](https://www.npmjs.com/package/@w-r-l/verify) - Verify cryptographic integrity of WACZ web archive bundles. Checks Ed25519 signatures and RFC 3161 timestamps.
+- [pompelmi](https://github.com/pompelmi/pompelmi) - Local-first file upload scanning for Node.js to inspect untrusted files before storage.
 
 # Data Sources
 
