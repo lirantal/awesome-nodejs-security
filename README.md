@@ -124,6 +124,7 @@ A curated list of awesome Node.js Security resources.
 - [gammaray](https://github.com/nearform/gammaray) - Runs a security audit based on your package.json using the [Node.js Security Working Group vulnerability data](https://github.com/nodejs/security-wg/).
 - [patch-package](https://www.npmjs.com/package/patch-package) - Allows app authors to create fixes for npm dependencies (in node_modules) without forking or waiting for merged PRs, by creating and applying patches.
 - [check-my-headers](https://github.com/UlisesGascon/check-my-headers) - Fast and simple way to check any HTTP Headers.
+- [clawsearch-guard](https://www.npmjs.com/package/clawsearch-guard) - Pre-install security check for AI agent skills and npm packages. Runs Trust Score analysis before installation to detect malicious patterns, data exfiltration, and prompt injection.
 - [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable/) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
 - [joi-security](https://github.com/Saluki/joi-security/) - Detect security flaws in Joi validation schemas.
 - [confused](https://github.com/visma-prodsec/confused) - Tool to check for dependency confusion vulnerabilities in multiple package management systems. See [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610) for reference on the reasoning for this tool.
