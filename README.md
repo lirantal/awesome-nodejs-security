@@ -165,6 +165,9 @@ A curated list of awesome Node.js Security resources.
 
 # Security Incidents
 
+## AI-Powered Security Tools
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 ## Protestware supply chain security issues
 
 The following is a list of known protestware spanning across other ecosystems too:
