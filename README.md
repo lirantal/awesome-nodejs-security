@@ -87,6 +87,7 @@ A curated list of awesome Node.js Security resources.
 - [fix-lockfile-integrity](https://github.com/yoavain/fix-lockfile-integrity) - A CLI tool to fix weak integrity hash (sha1) to a more secure integrity hash (sha512) in your npm lockfile.
 - [Bearer](https://github.com/Bearer/bearer) - A CLI tool to find and help you fix security and privacy risks in your code according to OWASP Top 10.
 - [GuardDog](https://github.com/DataDog/guarddog) - GuardDog is a CLI tool to Identify malicious PyPI and npm packages
+- [XploitScan](https://xploitscan.com) - SAST scanner for JavaScript, TypeScript, and Node.js with 158 built-in rules covering hardcoded secrets, SQL injection, XSS, SSRF, prototype pollution, and crypto misuse. Runs via `npx xploitscan scan .` or as a GitHub Action with SARIF output for GitHub code scanning. Freemium.
 
 ## Dynamic Application Security Testing
 
