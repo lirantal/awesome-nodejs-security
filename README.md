@@ -143,6 +143,7 @@ A curated list of awesome Node.js Security resources.
 - [tor-detect-middleware](https://github.com/UlisesGascon/tor-detect-middleware) Tor detect middleware for express
 - [express-enforces-ssl](https://github.com/hengkiardo/express-enforces-ssl) Enforces SSL for Express based Node.js projects. It is however highly advised that you handle SSL and global HTTP rules in a front proxy.
 - [bourne](https://github.com/hapijs/bourne) `JSON.parse()` drop-in replacement with prototype poisoning protection.
+- [sigcli](https://github.com/sigcli/sigcli) - Authentication layer for AI agents. Local MITM proxy on 127.0.0.1 intercepts HTTPS and injects credentials (cookies, bearer tokens, custom headers) transparently — AI agents authenticate without ever seeing secrets. AES-256-GCM encrypted storage, browser SSO, 4 auth strategies.
 - [fastify-rate-limit](https://github.com/fastify/fastify-rate-limit) A low overhead rate limiter for your routes.
 - [secure-json-parse](https://github.com/fastify/secure-json-parse) `JSON.parse()` drop-in replacement with prototype poisoning protection.
 - [express-brute](https://github.com/AdamPflug/express-brute) A brute-force protection middleware for express routes that rate-limits incoming requests, increasing the delay with each request in a fibonacci-like sequence.
