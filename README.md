@@ -126,6 +126,7 @@ A curated list of awesome Node.js Security resources.
 - [check-my-headers](https://github.com/UlisesGascon/check-my-headers) - Fast and simple way to check any HTTP Headers.
 - [clawsearch-guard](https://www.npmjs.com/package/clawsearch-guard) - Pre-install security check for AI agent skills and npm packages. Runs Trust Score analysis before installation to detect malicious patterns, data exfiltration, and prompt injection.
 - [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable/) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
+- [HackMyIP](https://hackmyip.com/) - Free online security toolkit with 20+ browser-based tools including DNS lookup, port scanner, email breach checker, WebRTC/DNS leak tests, and browser fingerprinting. No registration required.
 - [joi-security](https://github.com/Saluki/joi-security/) - Detect security flaws in Joi validation schemas.
 - [confused](https://github.com/visma-prodsec/confused) - Tool to check for dependency confusion vulnerabilities in multiple package management systems. See [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610) for reference on the reasoning for this tool.
 - [nodejs-cve-checker](https://github.com/nodejs/nodejs-cve-checker) - A simple tool that validates CVEs were published to NVD after a Node.js Security Release.
