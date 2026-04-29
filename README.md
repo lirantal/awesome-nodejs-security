@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lirantal-awesome-nodejs-security-badge.png)](https://mseep.ai/app/lirantal-awesome-nodejs-security)
+
 <br/>
 <div align="center">
 
