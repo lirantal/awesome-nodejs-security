@@ -1,6 +1,5 @@
 # Contribution Guidelines
 
-1. Read and adhere to the [Code-of-Conduct](./code-of-conduct.md)
 2. Make sure you put things in the right category!
 3. Always add your items to the end of a list. To be fair, the order is first-come-first-serve.
 4. If you think something belongs in the wrong category, or think there needs to be a new category, feel free to edit things too.
