@@ -132,6 +132,7 @@ A curated list of awesome Node.js Security resources.
 - [nodejs-cve-checker](https://github.com/nodejs/nodejs-cve-checker) - A simple tool that validates CVEs were published to NVD after a Node.js Security Release.
 - [zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions and CI/CD workflows.
 - [releaserun](https://github.com/Releaserun/releaserun-cli) - Scan project dependencies for end-of-life runtimes, known CVEs, and version health grades across 300+ products.
+- [trustdep](https://github.com/ali-bingul/trustdep) - CLI to scan npm packages for supply chain risks: typosquatting, maintainer changes, phantom dependencies, malicious install scripts, and known CVEs via OSV.dev.
 
 ## Security Hardening
 - [hijagger](https://github.com/firefart/hijagger) - Checks all maintainers of all npm and PyPI packages for hijackable packages through domain re-registration.
