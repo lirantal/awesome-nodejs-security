@@ -52,6 +52,7 @@ A curated list of awesome Node.js Security resources.
 # Tools
 
 ## Web Framework Hardening
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
 - [Helmet](https://www.npmjs.com/package/helmet) - Helmet helps you secure your Express apps by setting various HTTP headers.
 - [koa-helmet](https://www.npmjs.com/package/koa-helmet) - koa-helmet helps you secure your Koa apps by setting various HTTP headers.
 - [blankie](https://github.com/nlf/blankie) - CSP plugin for [hapi](https://github.com/hapijs/hapi).
@@ -61,10 +62,12 @@ A curated list of awesome Node.js Security resources.
 - [reporting-api](https://github.com/wille/reporting-api) - Setup and collect CSP, Reporting API v0 and v1 reports to reliabily parse them to be processed by the user
 
 ## GitHub Actions and CI/CD Security
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
 - [New dependencies advisor](https://github.com/marketplace/actions/new-dependencies-advisor) - GitHub Action adding comments to pull requests with package health information about newly added npm dependencies.
 - [OpenSSF Scorecard Monitor](https://github.com/marketplace/actions/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts.
 
 ## Static Code Analysis
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
 - [eslint-plugin-security](https://www.npmjs.com/package/eslint-plugin-security) - ESLint rules for Node Security. This project will help identify potential security hotspots, but finds a lot of false positives which need triage by a human.
 - [tslint-plugin-security](https://www.npmjs.com/package/tslint-config-security) - TSLint rules for Node Security. This project will help identify potential security hotspots, but finds a lot of false positives which need triage by a human.
 - [safe-regex](https://www.npmjs.com/package/safe-regex) - detect potentially catastrophic exponential-time regular expressions by limiting the star height to 1.
@@ -90,10 +93,12 @@ A curated list of awesome Node.js Security resources.
 - [repolyze](https://github.com/lirantal/repolyze) - Analyze a git source code repository for health signals and project vitals
 
 ## Dynamic Application Security Testing
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
 
 - [PurpleTeam](https://purpleteam-labs.com) - A security regression testing SaaS and CLI, perfect for inserting into your build pipelines. You don’t need to write any tests yourself. purpleteam is smart enough to know how to test, you just need to provide a Job file which tells purpleteam what you want tested.
 
 ## Input Validation & Output Encoding
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
 - [node-esapi](https://www.npmjs.com/package/node-esapi) - node-esapi is a minimal port of the ESAPI4JS (Enterprise Security API for JavaScript) encoder.
 - [escape-html](https://www.npmjs.com/package/escape-html) - Escape string for use in HTML.
 - [js-string-escape](https://www.npmjs.com/package/js-string-escape) - Escape any string to be a valid JavaScript string literal between double quotes or single quotes.
@@ -106,16 +111,19 @@ A curated list of awesome Node.js Security resources.
 - [spotlighting-datamarking](https://www.npmjs.com/package/spotlighting-datamarking) - spotlighting-datamarking provides a lightweight implementation of the [Spotlighting paper’s techniques](https://arxiv.org/abs/2403.14720), offering data delimiting, datamarking, and optional Base64 encoding to help separate data from instructions and reduce susceptibility to indirect prompt-injection attacks.
 
 ## Secure Composition
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
 - [pug-plugin-trusted-types](https://www.npmjs.com/package/pug-plugin-trusted-types) - Pug template plugin makes it easy to securely compose HTML from untrusted inputs and provides CSP & CSRF [automagic](https://www.npmjs.com/package/pug-plugin-trusted-types#hdr-automagic).
 - [safesql](https://www.npmjs.com/package/safesql) - A tagged template (<code>mysql\`...\`</code>) that understands [Postgres](https://www.npmjs.com/package/safesql#pg)'s & [MySQL](https://www.npmjs.com/package/safesql#mysql)'s query grammar to prevent [SQL injection](https://www.oreilly.com/library/view/securing-node-applications/9781491982426/ch01.html#idm140399946848800).
 - [sh-template-tag](https://www.npmjs.com/package/sh-template-tag) - A tagged template (<code>sh\`...\`</code>) that understands Bash syntax so prevents [shell injection](https://www.oreilly.com/library/view/securing-node-applications/9781491982426/ch01.html#idm140399951358480).
 
 ## CSRF
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
 - [csurf](https://www.npmjs.com/package/csurf) - Node.js CSRF protection middleware.
 - [crumb](https://github.com/hapijs/crumb) - CSRF crumb generation and validation for [hapi](https://github.com/hapijs/hapi).
 - [fastify-csrf](https://github.com/fastify/fastify-csrf) - A plugin for adding CSRF protection to [fastify](https://www.fastify.io).
 
 ## Vulnerabilities and Security Advisories
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
 - [npq](https://github.com/lirantal/npq) - Safely install packages with npm or yarn by auditing them as part of your install process.
 - [snyk](https://www.npmjs.com/package/snyk) - Snyk helps you find, fix and monitor known vulnerabilities in Node.js npm, Ruby and Java dependencies, both on an ad hoc basis and as part of your CI (Build) system.
 - [node-release-lines](https://www.npmjs.com/package/node-release-lines) - Introspection API for Node.js release metadata. Provides information about release lines, their relative status along with details of each release.
@@ -134,6 +142,7 @@ A curated list of awesome Node.js Security resources.
 - [releaserun](https://github.com/Releaserun/releaserun-cli) - Scan project dependencies for end-of-life runtimes, known CVEs, and version health grades across 300+ products.
 
 ## Security Hardening
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
 - [hijagger](https://github.com/firefart/hijagger) - Checks all maintainers of all npm and PyPI packages for hijackable packages through domain re-registration.
 - [snync](https://github.com/snyk-labs/snync) - Mitigate security concerns of Dependency Confusion supply chain security risks.
 - [NopPP - No Prototype Pollution](https://github.com/snyk-labs/nopp) - Tiny helper to protect against Prototype Pollution vulnerabilities in your application regardless if they introduced in your own code or in 3rd-party code.
@@ -168,6 +177,7 @@ A curated list of awesome Node.js Security resources.
 # Security Incidents
 
 ## Protestware supply chain security issues
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
 
 The following is a list of known protestware spanning across other ecosystems too:
 - [PyPI package author of atomicwrites deletes his own code](https://www.bleepingcomputer.com/news/security/pypi-mandates-2fa-for-critical-projects-developer-pushes-back/) 
@@ -180,6 +190,7 @@ Articles covering the topics around protestware are:
 - [2022's Snyk protestware types](https://snyk.io/blog/protestware-open-source-types-impact/)
 
 ## npm and JavaScript specific security incidents and supply chain security issues
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
 
 Collection of security incidents that happened in the Node.js, JavaScript and npm related communities with supporting articles:
 
@@ -284,9 +295,11 @@ Follow-up notes:
 # Educational
 
 ## Newsletters
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
  - [Node.js Security newsletter](https://newsletter.nodejs-security.com/) - JavaScript & web security insights, latest security vulnerabilities, hands-on secure code insights, npm ecosystem incidents, Node.js runtime feature updates, Bun and Deno runtime updates, secure coding best practices, malware, malicious packages, and more.
 
 ## Articles
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
  - [A Roadmap for Node.js Security](https://node-sec-roadmap-fyi.uc.r.appspot.com/) (original domain https://nodesecroadmap.fyi/ not available. See [#42](https://github.com/lirantal/awesome-nodejs-security/issues/42))
  - [10 npm security best practices](https://snyk.io/blog/ten-npm-security-best-practices/)
  - [OWASP Cheat Sheet Series - Node.js Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_security_cheat_sheet.html)
@@ -302,9 +315,11 @@ Follow-up notes:
  - [The Documentation Attack Surface: How npm Libraries Teach Insecure Patterns](https://gist.github.com/ekreloff/2c44e97183a74c32fdbb7d14aa8b30ad) - Analysis of how popular npm libraries with secure defaults teach insecure patterns in their README examples, covering 4 packages with 180M+ combined weekly downloads.
 
 ## Research Papers
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
  - [Deep dive into Visual Studio Code extension security vulnerabilities](https://snyk.io/blog/visual-studio-code-extension-security-vulnerabilities-deep-dive)
 
 ## Books
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
 - [Secure Your Node.js Web Application: Keep Attackers Out and Users Happy](https://www.amazon.com/Secure-Your-Node-js-Web-Application-ebook/dp/B01BPPUP30) by Karl Duuna, 2016
 - [Essential Node.js Security](https://leanpub.com/nodejssecurity) by Liran Tal, 2017 - Hands-on and abundant with source code for a practical guide to Securing Node.js web applications.
 - [Securing Node JS Apps
@@ -317,6 +332,7 @@ Follow-up notes:
 - [Node.js Secure Coding: Mitigate and Weaponize Code Injection Vulnerabilities](https://www.nodejs-security.com/book/code-injection)
 
 ## Roadmaps
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
   - [Node.js Developer Roadmap](https://roadmap.sh/nodejs)
 
 # Companies
@@ -327,6 +343,7 @@ Follow-up notes:
 - [NodeSecure](https://github.com/NodeSecure) - An organization of developers building free and open source JavaScript/Node.js security tools.
 
 ## Hacking Playground
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
  - [OWASP NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
  - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) - The OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
  - [DomGoat](https://domgo.at/cxss/intro) - Client XSS happens when untrusted data from sources ends up in sinks. Information and excercises on different sources, different sinks and example of XSS occuring due to them in the menu on the left-hand side. 
@@ -339,4 +356,5 @@ Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 say *hi* on [Twitter](https://twitter.com/liran_tal)
 
 ## License
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Prevents accidental breaking API changes from reaching production via AST analysis of PRs.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
