@@ -134,6 +134,8 @@ A curated list of awesome Node.js Security resources.
 - [releaserun](https://github.com/Releaserun/releaserun-cli) - Scan project dependencies for end-of-life runtimes, known CVEs, and version health grades across 300+ products.
 - [cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - Fast, offline-capable CLI that scans npm, pnpm, Yarn, and Bun lockfiles against the OSV database to identify direct and transitive dependency vulnerabilities with remediation guidance, no account required.
 
+- [CVE Lite CLI](https://github.com/OWASP/cve-lite-cli) - OWASP Incubator Project. Scans JavaScript and TypeScript lockfiles locally for vulnerable dependencies across npm, pnpm, Yarn, and Bun, with copy-and-run fix commands.
+
 ## Security Hardening
 - [hijagger](https://github.com/firefart/hijagger) - Checks all maintainers of all npm and PyPI packages for hijackable packages through domain re-registration.
 - [snync](https://github.com/snyk-labs/snync) - Mitigate security concerns of Dependency Confusion supply chain security risks.
