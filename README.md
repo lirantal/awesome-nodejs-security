@@ -132,7 +132,6 @@ A curated list of awesome Node.js Security resources.
 - [nodejs-cve-checker](https://github.com/nodejs/nodejs-cve-checker) - A simple tool that validates CVEs were published to NVD after a Node.js Security Release.
 - [zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions and CI/CD workflows.
 - [releaserun](https://github.com/Releaserun/releaserun-cli) - Scan project dependencies for end-of-life runtimes, known CVEs, and version health grades across 300+ products.
-- [proof-of-commitment](https://github.com/piiiico/proof-of-commitment) - Supply chain risk scoring for npm, PyPI, Cargo, and Go packages using behavioral signals (publisher concentration, release patterns). CLI, GitHub Action, MCP server.
 
 ## Security Hardening
 - [hijagger](https://github.com/firefart/hijagger) - Checks all maintainers of all npm and PyPI packages for hijackable packages through domain re-registration.
@@ -160,6 +159,7 @@ A curated list of awesome Node.js Security resources.
 - [@w-r-l/verify](https://www.npmjs.com/package/@w-r-l/verify) - Verify cryptographic integrity of WACZ web archive bundles. Checks Ed25519 signatures and RFC 3161 timestamps.
 - [pompelmi](https://github.com/pompelmi/pompelmi) - Local-first file upload scanning for Node.js to inspect untrusted files before storage.
 - [verifyfetch](https://github.com/hamzaydia/verifyfetch) - SRI-based integrity verification and resumable downloads for large files. Protects against CDN compromise and supply chain attacks in the browser.
+- [proof-of-commitment](https://github.com/piiiico/proof-of-commitment) - Behavioral supply chain risk scorer for npm, PyPI, Cargo, and Go. Flags publisher concentration risk that npm audit misses.
 
 # Data Sources
 
