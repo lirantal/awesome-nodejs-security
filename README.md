@@ -91,6 +91,7 @@ A curated list of awesome Node.js Security resources.
 
 ## Dynamic Application Security Testing
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform with a dedicated Node.js, Express and Angular offensive sub-agent (plus a NestJS one) that exercises running apps for injection, authentication and access-control flaws, orchestrating 80+ tools over MCP with a per-finding evidence trail.
 - [PurpleTeam](https://purpleteam-labs.com) - A security regression testing SaaS and CLI, perfect for inserting into your build pipelines. You don’t need to write any tests yourself. purpleteam is smart enough to know how to test, you just need to provide a Job file which tells purpleteam what you want tested.
 
 ## Input Validation & Output Encoding
