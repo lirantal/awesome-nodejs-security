@@ -58,7 +58,7 @@ A curated list of awesome Node.js Security resources.
 - [fastify-helmet](https://github.com/fastify/fastify-helmet) - fastify-helmet helps you secure your [fastify](https://www.fastify.io/) apps by setting important security headers.
 - [nis2-express-middleware](https://github.com/nis2shield/express-nis2-middleware) - Comprehensive Express.js middleware for EU NIS2 compliance (logging, active defense, and secure defaults).
 - [nuxt-security](https://github.com/Baroshem/nuxt-security) - 🛡 Security Module for Nuxt based on OWASP Top 10 and Helmet.
-- [reporting-api](https://github.com/wille/reporting-api) - Setup and collect CSP, Reporting API v0 and v1 reports to reliabily parse them to be processed by the user
+- [reporting-api](https://github.com/wille/reporting-api) - Express middleware to collect CSP, COOP/COEP, Permissions-Policy, NEL, crash and deprecation reports (Reporting API v0/v1 and legacy report-uri).
 
 ## GitHub Actions and CI/CD Security
 - [New dependencies advisor](https://github.com/marketplace/actions/new-dependencies-advisor) - GitHub Action adding comments to pull requests with package health information about newly added npm dependencies.
