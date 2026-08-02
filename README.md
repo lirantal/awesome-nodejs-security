@@ -63,6 +63,7 @@ A curated list of awesome Node.js Security resources.
 ## GitHub Actions and CI/CD Security
 - [New dependencies advisor](https://github.com/marketplace/actions/new-dependencies-advisor) - GitHub Action adding comments to pull requests with package health information about newly added npm dependencies.
 - [OpenSSF Scorecard Monitor](https://github.com/marketplace/actions/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts.
+- [PR CheckMate](https://www.npmjs.com/package/pr-checkmate) - A CI PR gate for Node.js and other stacks: gitleaks secret scanning, grype/osv-scanner dependency vulnerability checks, and a CycloneDX SBOM with an independent VirusTotal scan on every release.
 
 ## Static Code Analysis
 - [eslint-plugin-security](https://www.npmjs.com/package/eslint-plugin-security) - ESLint rules for Node Security. This project will help identify potential security hotspots, but finds a lot of false positives which need triage by a human.
