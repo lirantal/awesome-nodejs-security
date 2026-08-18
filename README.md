@@ -39,6 +39,7 @@ A curated list of awesome Node.js Security resources.
   - [CSRF](#csrf)
   - [Vulnerabilities and Security Advisories](#vulnerabilities-and-security-advisories)
   - [Security Hardening](#security-hardening)
+- [AI & LLM Security](#ai--llm-security)
 - [Data Sources](#data-sources)
 - [Security Incidents](#security-incidents)
 - [Educational](#educational)
@@ -162,6 +163,10 @@ A curated list of awesome Node.js Security resources.
 - [@w-r-l/verify](https://www.npmjs.com/package/@w-r-l/verify) - Verify cryptographic integrity of WACZ web archive bundles. Checks Ed25519 signatures and RFC 3161 timestamps.
 - [pompelmi](https://github.com/pompelmi/pompelmi) - Local-first file upload scanning for Node.js to inspect untrusted files before storage.
 - [verifyfetch](https://github.com/hamzaydia/verifyfetch) - SRI-based integrity verification and resumable downloads for large files. Protects against CDN compromise and supply chain attacks in the browser.
+  
+## AI & LLM Security
+
+- [Project-Koma](https://github.com/swnotmetal/Project-Koma) - A TypeScript AI defense toolkit featuring semantic request filtering for prompt injection guarding, perimeter rate-limiting, and zero-trust data retrieval.
 
 # Data Sources
 
