@@ -135,6 +135,8 @@ A curated list of awesome Node.js Security resources.
 - [releaserun](https://github.com/Releaserun/releaserun-cli) - Scan project dependencies for end-of-life runtimes, known CVEs, and version health grades across 300+ products.
 - [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier.
 - [cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - OWASP Lab Project that scans npm, pnpm, Yarn, and Bun lockfiles locally against the OSV database, classifies findings as direct or transitive, and generates copy-and-run upgrade commands.
+- [LeetGuard](https://github.com/adebayoade/leetguard) - A lightning-fast, open-source CLI tool to parse lockfiles and identify security anti-patterns across dependencies and source code (Node.js & React), mapped to ISO 27001.
+
 
 ## Security Hardening
 - [hijagger](https://github.com/firefart/hijagger) - Checks all maintainers of all npm and PyPI packages for hijackable packages through domain re-registration.
@@ -173,7 +175,7 @@ A curated list of awesome Node.js Security resources.
 ## Protestware supply chain security issues
 
 The following is a list of known protestware spanning across other ecosystems too:
-- [PyPI package author of atomicwrites deletes his own code](https://www.bleepingcomputer.com/news/security/pypi-mandates-2fa-for-critical-projects-developer-pushes-back/) 
+- [PyPI package author of atomicwrites deletes his own code](https://www.bleepingcomputer.com/news/security/pypi-mandates-2fa-for-critical-projects-developer-pushes-back/)
 - [left-pad](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/)
 - `event-source-polyfill`, Mariusz Nowak and their `es5-ext`, Evan Jacobs and their `styled-components`, [node-ipc](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/), `peacenotwar`, [nestjs-pino](https://socket.dev/npm/package/nestjs-pino/files/3.1.1/postinstall.js) - all with regards to the Russian-Ukraine crisis.
 - The [Open Souce Peace](https://github.com/open-source-peace/protestware-list) organization maintains a list of identified protestware incidents.
@@ -230,7 +232,7 @@ Collection of security incidents that happened in the Node.js, JavaScript and np
 | 2024 Feb 6    | noblox.js-proxy-server malicious npm Package Masquerades as Noblox.js, Targeting Roblox Users for Data Theft | [Socket](https://socket.dev/blog/malicious-npm-package-masquerades-as-noblox-js)
 | 2024 Jan 25   | npm flooded with 748 packages that store movies | [Sonatype](https://blog.sonatype.com/npm-flooded-with-748-packages-that-store-movies)
 | 2024 Jan 3    | An `everything` package with a registry-wide dependencies prevents from packages to be unpublished | [SC Media](https://www.scmagazine.com/news/npm-registry-prank-leaves-developers-unable-to-unpublish-packages)
-| 2023 Dec 14   | Ledger supply chain security attack introducing crypto drainer malware (@ledgerhq/connect-kit) | [Sonatype](https://blog.sonatype.com/decrypting-the-ledger-connect-kit-compromise-a-deep-dive-into-the-crypto-drainer-attack), Tweets [1](https://twitter.com/Neodyme/status/1735337711555285261) [2](https://twitter.com/Ledger/status/1735370531224834430) [3](https://x.com/josephdelong/status/1735293295301972022?s=20) [4](https://twitter.com/Mudit__Gupta/status/1735301007188406681) [5](https://twitter.com/FrankResearcher/status/1735286837088792794) [6](https://twitter.com/Ledger/status/1735326240658100414) [7](https://twitter.com/AndrewMohawk/status/1735290127084105743) [8](https://twitter.com/bantg/status/1735279127752540465) 
+| 2023 Dec 14   | Ledger supply chain security attack introducing crypto drainer malware (@ledgerhq/connect-kit) | [Sonatype](https://blog.sonatype.com/decrypting-the-ledger-connect-kit-compromise-a-deep-dive-into-the-crypto-drainer-attack), Tweets [1](https://twitter.com/Neodyme/status/1735337711555285261) [2](https://twitter.com/Ledger/status/1735370531224834430) [3](https://x.com/josephdelong/status/1735293295301972022?s=20) [4](https://twitter.com/Mudit__Gupta/status/1735301007188406681) [5](https://twitter.com/FrankResearcher/status/1735286837088792794) [6](https://twitter.com/Ledger/status/1735326240658100414) [7](https://twitter.com/AndrewMohawk/status/1735290127084105743) [8](https://twitter.com/bantg/status/1735279127752540465)
 | 2023 Sep 27   | Spoofed Dependabot commits steal GitHub tokens and inject malware to JavaScript files | [Checkmarx](https://checkmarx.com/blog/surprise-when-dependabot-contributes-malicious-code/)
 | 2023 Jun 27   | Manifest Confusion - a new publicly disclosed bug with the npm package manager demonstrating package metadata inconsistency | [Darcy Clarke's blog](https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem)
 | 2023 Jun 23   | North Korean attackers exploit social engineering and supply chain attacks on npm | [Phylum](https://blog.phylum.io/junes-sophisticated-npm-attack-attributed-to-north-korea/)
@@ -241,7 +243,7 @@ Collection of security incidents that happened in the Node.js, JavaScript and np
 | 2023 Jan 29   | Phylum Identifies 137 Malicious npm Packages | [phylum](https://blog.phylum.io/phylum-identifies-98-malicious-npm-packages)
 | 2022 Nov 29   | Invisible npm malware may hide in crafted versions and bypass npm audit's security checks | [JFrog](https://jfrog.com/blog/invisible-npm-malware-evading-security-checks-with-crafted-versions/)
 | 2022 Nov 24   | Phylum team captures captures malicious npm package imagecompress-mini claims to be an image compress tool | [Louisw Lang on Twitter](https://twitter.com/LouiswLang/status/1595835195382534144)
-| 2022 Oct 12   | Aqua security discovers flaw in npm that allows disclosing of privately hosted npm packages on the registry | [Aqua](https://blog.aquasec.com/private-packages-disclosed-via-timing-attack-on-npm) 
+| 2022 Oct 12   | Aqua security discovers flaw in npm that allows disclosing of privately hosted npm packages on the registry | [Aqua](https://blog.aquasec.com/private-packages-disclosed-via-timing-attack-on-npm)
 | 2022 Oct 07   | LofyGang Distributed ~200 Malicious NPM Packages to Steal Credit Card Data | [TheHackerNews](https://thehackernews.com/2022/10/lofygang-distributed-200-malicious-npm.html)
 | 2022 Sep 23    |  Popular Cryptocurrency Exchange dYdX Has Had Its NPM Account Hacked | [Mend](https://www.mend.io/resources/blog/popular-cryptocurrency-exchange-dydx-has-had-its-npm-account-hacked/)
 | 2022 Jul 29    | malicious packages `small-sm`, `pern-valids`, `lifeculer`, and `proc-title` target stealing credit card information and discord tokens | [darkreading](https://www.darkreading.com/risk/malicious-npm-packages-discord-tokens-credit-card)
@@ -333,7 +335,7 @@ Follow-up notes:
 ## Hacking Playground
  - [OWASP NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
  - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) - The OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
- - [DomGoat](https://domgo.at/cxss/intro) - Client XSS happens when untrusted data from sources ends up in sinks. Information and excercises on different sources, different sinks and example of XSS occuring due to them in the menu on the left-hand side. 
+ - [DomGoat](https://domgo.at/cxss/intro) - Client XSS happens when untrusted data from sources ends up in sinks. Information and excercises on different sources, different sinks and example of XSS occuring due to them in the menu on the left-hand side.
 
 # Contributing
 Found an awesome project, package, article, other type of resources related to Node.js Security? Send me a pull request!
