@@ -88,6 +88,7 @@ A curated list of awesome Node.js Security resources.
 - [Bearer](https://github.com/Bearer/bearer) - A CLI tool to find and help you fix security and privacy risks in your code according to OWASP Top 10.
 - [GuardDog](https://github.com/DataDog/guarddog) - GuardDog is a CLI tool to Identify malicious PyPI and npm packages
 - [repolyze](https://github.com/lirantal/repolyze) - Analyze a git source code repository for health signals and project vitals
+- [ProdGuard](https://github.com/Felix0731/prodguard) - Fails the build when a commit disables a security control rather than fixing it: row-level security turned off, a Stripe webhook handler that never verifies its signature, a JWT decoded but not verified, a service-role key behind a client-side env prefix, or a live secret committed. Aimed at the guards AI coding agents quietly remove to make something work.
 
 ## Dynamic Application Security Testing
 
