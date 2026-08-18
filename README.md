@@ -39,6 +39,7 @@ A curated list of awesome Node.js Security resources.
   - [CSRF](#csrf)
   - [Vulnerabilities and Security Advisories](#vulnerabilities-and-security-advisories)
   - [Security Hardening](#security-hardening)
+- [AI & LLM Security](#ai--llm-security)
 - [Data Sources](#data-sources)
 - [Security Incidents](#security-incidents)
 - [Educational](#educational)
@@ -165,7 +166,7 @@ A curated list of awesome Node.js Security resources.
   
 ## AI & LLM Security
 
-- [Project-Koma](https://github.com) - A TypeScript AI defense toolkit featuring semantic request filtering for prompt injection guarding, perimeter rate-limiting, and zero-trust data retrieval.
+- [Project-Koma](https://github.com/swnotmetal/Project-Koma) - A TypeScript AI defense toolkit featuring semantic request filtering for prompt injection guarding, perimeter rate-limiting, and zero-trust data retrieval.
 
 # Data Sources
 
