@@ -135,6 +135,7 @@ A curated list of awesome Node.js Security resources.
 - [releaserun](https://github.com/Releaserun/releaserun-cli) - Scan project dependencies for end-of-life runtimes, known CVEs, and version health grades across 300+ products.
 - [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier.
 - [cve-lite-cli](https://github.com/OWASP/cve-lite-cli) - OWASP Lab Project that scans npm, pnpm, Yarn, and Bun lockfiles locally against the OSV database, classifies findings as direct or transitive, and generates copy-and-run upgrade commands.
+- [Lazaretto](https://github.com/jamesdfinance-dev/lazaretto-mcp) - Pre-install verification for npm packages, AI agent skills, and MCP tools. Matches pinned lockfile dependencies against OSV and OpenSSF malicious package advisories, and adds deterministic behavioral analysis with file and line evidence.
 
 ## Security Hardening
 - [hijagger](https://github.com/firefart/hijagger) - Checks all maintainers of all npm and PyPI packages for hijackable packages through domain re-registration.
