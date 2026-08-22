@@ -110,6 +110,7 @@ A curated list of awesome Node.js Security resources.
 - [pug-plugin-trusted-types](https://www.npmjs.com/package/pug-plugin-trusted-types) - Pug template plugin makes it easy to securely compose HTML from untrusted inputs and provides CSP & CSRF [automagic](https://www.npmjs.com/package/pug-plugin-trusted-types#hdr-automagic).
 - [safesql](https://www.npmjs.com/package/safesql) - A tagged template (<code>mysql\`...\`</code>) that understands [Postgres](https://www.npmjs.com/package/safesql#pg)'s & [MySQL](https://www.npmjs.com/package/safesql#mysql)'s query grammar to prevent [SQL injection](https://www.oreilly.com/library/view/securing-node-applications/9781491982426/ch01.html#idm140399946848800).
 - [sh-template-tag](https://www.npmjs.com/package/sh-template-tag) - A tagged template (<code>sh\`...\`</code>) that understands Bash syntax so prevents [shell injection](https://www.oreilly.com/library/view/securing-node-applications/9781491982426/ch01.html#idm140399951358480).
+- [pg-telaio](https://www.npmjs.com/package/pg-telaio) - A tagged template (<code>sql\`...\`</code>) for [node-postgres](https://www.npmjs.com/package/pg) where an interpolated value can only become a bound parameter and identifiers are always quoted, to prevent [SQL injection](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html).
 
 ## CSRF
 - [csurf](https://www.npmjs.com/package/csurf) - Node.js CSRF protection middleware.
