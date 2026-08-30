@@ -105,6 +105,7 @@ A curated list of awesome Node.js Security resources.
 - [is-path-inside-secure](https://www.npmjs.com/package/is-path-inside-secure) - is-path-inside-secure is a symlink-aware implementation of the popular [is-path-inside](https://www.npmjs.com/package/is-path-inside) npm package, designed to help prevent path-traversal vulnerabilities.
 - [spotlighting-datamarking](https://www.npmjs.com/package/spotlighting-datamarking) - spotlighting-datamarking provides a lightweight implementation of the [Spotlighting paper’s techniques](https://arxiv.org/abs/2403.14720), offering data delimiting, datamarking, and optional Base64 encoding to help separate data from instructions and reduce susceptibility to indirect prompt-injection attacks.
 - [promptpurify](https://www.npmjs.com/package/promptpurify) - structural prompt firewall for LLM apps, with a trained classifier for prompt-injection and jailbreak inputs.
+- [purifai](https://www.npmjs.com/package/purifai) - Zero-dependency strip-to-text HTML sanitizer with contextual output encoding for Node.js, browsers and edge runtimes.
 
 ## Secure Composition
 - [pug-plugin-trusted-types](https://www.npmjs.com/package/pug-plugin-trusted-types) - Pug template plugin makes it easy to securely compose HTML from untrusted inputs and provides CSP & CSRF [automagic](https://www.npmjs.com/package/pug-plugin-trusted-types#hdr-automagic).
