@@ -88,6 +88,7 @@ A curated list of awesome Node.js Security resources.
 - [Bearer](https://github.com/Bearer/bearer) - A CLI tool to find and help you fix security and privacy risks in your code according to OWASP Top 10.
 - [GuardDog](https://github.com/DataDog/guarddog) - GuardDog is a CLI tool to Identify malicious PyPI and npm packages
 - [repolyze](https://github.com/lirantal/repolyze) - Analyze a git source code repository for health signals and project vitals
+- [Extuno](https://extuno.com) - Scans npm packages and browser extensions for supply chain risk, diffing every published version to catch a package that turns malicious in an update, using static rules, source review and dynamic execution in an isolated microVM. Has a free tier.
 
 ## Dynamic Application Security Testing
 
