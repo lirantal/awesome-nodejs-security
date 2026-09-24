@@ -284,6 +284,7 @@ Collection of security incidents that happened in the Node.js, JavaScript and np
 Follow-up notes:
 * A resource for malicious incidents is [BadJS](https://badjs.org/) - a repository of malicious JavaScript that has been found in websites, extensions, npm packages, and anywhere else JavaScript lives.
 * [npm zoo](https://github.com/spaceraccoon/npm-zoo) is an archive keeping track of the original malicious packages source code for educational purposes.
+* [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) is an open database of AI agent security incidents, with sourced records for npm supply chain attacks that targeted or abused AI coding agents and MCP servers, such as Nx s1ngularity, postmark-mcp, Shai-Hulud and TanStack.
 
 # Educational
 
