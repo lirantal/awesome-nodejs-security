@@ -62,6 +62,7 @@ A curated list of awesome Node.js Security resources.
 
 ## GitHub Actions and CI/CD Security
 - [New dependencies advisor](https://github.com/marketplace/actions/new-dependencies-advisor) - GitHub Action adding comments to pull requests with package health information about newly added npm dependencies.
+- [audit-dependencies](https://github.com/marketplace/actions/audit-dependencies) - GitHub Action that flags risky or unhealthy dependencies directly in pull requests using Package Rating's scoring.
 - [OpenSSF Scorecard Monitor](https://github.com/marketplace/actions/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts.
 
 ## Static Code Analysis
