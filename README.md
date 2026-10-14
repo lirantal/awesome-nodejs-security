@@ -92,6 +92,7 @@ A curated list of awesome Node.js Security resources.
 ## Dynamic Application Security Testing
 
 - [PurpleTeam](https://purpleteam-labs.com) - A security regression testing SaaS and CLI, perfect for inserting into your build pipelines. You don’t need to write any tests yourself. purpleteam is smart enough to know how to test, you just need to provide a Job file which tells purpleteam what you want tested.
+- [ssrf-lab](https://github.com/roshan-amble/ssrf-lab) - Local SSRF regression testing for Node.js HTTP clients, using a response canary and an independent hit counter.
 
 ## Input Validation & Output Encoding
 - [node-esapi](https://www.npmjs.com/package/node-esapi) - node-esapi is a minimal port of the ESAPI4JS (Enterprise Security API for JavaScript) encoder.
