@@ -88,6 +88,7 @@ A curated list of awesome Node.js Security resources.
 - [Bearer](https://github.com/Bearer/bearer) - A CLI tool to find and help you fix security and privacy risks in your code according to OWASP Top 10.
 - [GuardDog](https://github.com/DataDog/guarddog) - GuardDog is a CLI tool to Identify malicious PyPI and npm packages
 - [repolyze](https://github.com/lirantal/repolyze) - Analyze a git source code repository for health signals and project vitals
+- [nextjs-supabase-stripe-security-checker](https://github.com/edtrackai/nextjs-supabase-stripe-security-checker) - Local CLI and GitHub Action that runs 24 static checks on Next.js + Supabase + Stripe apps for leaked keys, missing RLS and unsafe Stripe webhooks.
 
 ## Dynamic Application Security Testing
 
