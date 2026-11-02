@@ -335,6 +335,7 @@ Follow-up notes:
  - [OWASP NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
  - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) - The OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
  - [DomGoat](https://domgo.at/cxss/intro) - Client XSS happens when untrusted data from sources ends up in sinks. Information and excercises on different sources, different sinks and example of XSS occuring due to them in the menu on the left-hand side. 
+ - [AI Package Hallucination Exercise](https://ransomleak.com/exercises/invented-dependency/) - Browser-based exercise where an AI assistant suggests an npm package that an attacker registered, and its postinstall script runs on install.
 
 # Contributing
 Found an awesome project, package, article, other type of resources related to Node.js Security? Send me a pull request!
