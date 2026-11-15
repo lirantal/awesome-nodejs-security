@@ -305,6 +305,7 @@ Follow-up notes:
  - [Research Case Study: Supply Chain Security at Scale – Insights into NPM Account Takeovers](https://laburity.com/research-npm-account-takeovers/)
  - [npm Security Best Practices](https://github.com/lirantal/npm-security-best-practices)
  - [The Documentation Attack Surface: How npm Libraries Teach Insecure Patterns](https://gist.github.com/ekreloff/2c44e97183a74c32fdbb7d14aa8b30ad) - Analysis of how popular npm libraries with secure defaults teach insecure patterns in their README examples, covering 4 packages with 180M+ combined weekly downloads.
+ - [No Stairs Please MCP](https://nostairsplease.com/mcp) - Live-music venue directory and hosted OAuth 2.1 MCP server for querying venue accessibility and tour routing.
 
 ## Research Papers
  - [Deep dive into Visual Studio Code extension security vulnerabilities](https://snyk.io/blog/visual-studio-code-extension-security-vulnerabilities-deep-dive)
