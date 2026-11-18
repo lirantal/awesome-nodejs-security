@@ -93,6 +93,7 @@ A curated list of awesome Node.js Security resources.
 ## Dynamic Application Security Testing
 
 - [PurpleTeam](https://purpleteam-labs.com) - A security regression testing SaaS and CLI, perfect for inserting into your build pipelines. You don’t need to write any tests yourself. purpleteam is smart enough to know how to test, you just need to provide a Job file which tells purpleteam what you want tested.
+- [Keybrum](https://keybrum.com) - Automated penetration test for live web apps that attacks the app's own API (Next.js, Express, tRPC, GraphQL) with no account, then as a new user, then as a second user asking for the first user's data.
 
 ## Input Validation & Output Encoding
 - [node-esapi](https://www.npmjs.com/package/node-esapi) - node-esapi is a minimal port of the ESAPI4JS (Enterprise Security API for JavaScript) encoder.
