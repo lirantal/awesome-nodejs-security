@@ -163,6 +163,7 @@ A curated list of awesome Node.js Security resources.
 - [@w-r-l/verify](https://www.npmjs.com/package/@w-r-l/verify) - Verify cryptographic integrity of WACZ web archive bundles. Checks Ed25519 signatures and RFC 3161 timestamps.
 - [pompelmi](https://github.com/pompelmi/pompelmi) - Local-first file upload scanning for Node.js to inspect untrusted files before storage.
 - [verifyfetch](https://github.com/hamzaydia/verifyfetch) - SRI-based integrity verification and resumable downloads for large files. Protects against CDN compromise and supply chain attacks in the browser.
+- [WebDecoy Node](https://github.com/WebDecoy/node) - TypeScript middleware for Express, Fastify, Next.js, and Hono with local bot tripwires, rate limits, and monitor and enforcement modes.
 
 # Data Sources
 
