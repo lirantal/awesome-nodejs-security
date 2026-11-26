@@ -89,6 +89,7 @@ A curated list of awesome Node.js Security resources.
 - [GuardDog](https://github.com/DataDog/guarddog) - GuardDog is a CLI tool to Identify malicious PyPI and npm packages
 - [repolyze](https://github.com/lirantal/repolyze) - Analyze a git source code repository for health signals and project vitals
 - [eslint-plugin-node-security](https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-node-security) - ESLint rules for the Node.js core APIs (fs, child_process, vm, path, Buffer) that catch command injection, path traversal and code execution patterns, with a CWE reference on every report.
+- [Caelo](https://github.com/arthi-arumugam-git/caelo) - Free, local static scanner for AI-built apps that detects exposed API keys, Supabase service-role keys, secrets leaked to the browser bundle, open Firebase rules, missing Supabase RLS, and committed .env files. Runs as a CLI, an MCP server, or a GitHub Action.
 
 ## Dynamic Application Security Testing
 
