@@ -63,6 +63,7 @@ A curated list of awesome Node.js Security resources.
 ## GitHub Actions and CI/CD Security
 - [New dependencies advisor](https://github.com/marketplace/actions/new-dependencies-advisor) - GitHub Action adding comments to pull requests with package health information about newly added npm dependencies.
 - [OpenSSF Scorecard Monitor](https://github.com/marketplace/actions/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts.
+- [VibeShield Action](https://github.com/zColdWater/vibeshield-action) - Zero-dependency Node.js GitHub Action auditing preview and production deployments for leaked client-bundle secrets, unguarded Supabase RLS endpoints, and missing HTTP security headers.
 
 ## Static Code Analysis
 - [eslint-plugin-security](https://www.npmjs.com/package/eslint-plugin-security) - ESLint rules for Node Security. This project will help identify potential security hotspots, but finds a lot of false positives which need triage by a human.
